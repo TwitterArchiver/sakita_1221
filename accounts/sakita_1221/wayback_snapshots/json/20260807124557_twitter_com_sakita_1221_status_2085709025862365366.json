@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2085273934904332555",
+    "created_at": "2026-08-07T12:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085709025862365366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058846085867790337",
+          "start": 0,
+          "username": "bambooboo1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085709025862365366",
+    "in_reply_to_user_id": "2058846085867790337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085282505691926991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bambooboo1989 a师🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2085273934904332555",
+        "created_at": "2026-08-07T12:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085709025862365366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058846085867790337",
+              "start": 0,
+              "username": "bambooboo1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085709025862365366",
+        "in_reply_to_user_id": "2058846085867790337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085282505691926991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bambooboo1989 a师🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058846085867790337",
+        "conversation_id": "2085273934904332555",
+        "created_at": "2026-08-06T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085282505691926991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "sakita_1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085282505691926991",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085273934904332555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakita_1221 老大现生安好是最重要的🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "🍑",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8522,
+          "following_count": 717,
+          "like_count": 19320,
+          "listed_count": 15,
+          "media_count": 138,
+          "tweet_count": 2847
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T09:44:51.000Z",
+        "description": "涛蜜｜自由右翼｜婉拒毛粉包蜜激左｜全网最尊重老胡第一位秘书的账号",
+        "id": "2058846085867790337",
+        "location": "广顺路17号院",
+        "name": "Argus",
+        "pinned_tweet_id": "2083879698682306693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075141815909715969/i6mvVk4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 144,
+          "like_count": 3572,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "bambooboo1989",
+        "verified": false
+      }
+    ]
+  }
+}

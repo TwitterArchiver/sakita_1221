@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090926368523726994",
+    "created_at": "2026-08-21T22:17:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T23:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090926368523726994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2058846085867790337",
+          "start": 3,
+          "username": "bambooboo1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090926368523726994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090848374614552757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bambooboo1989: 一些人初见这张照片的念头：老胡和舞伴苏同学有花边故事？\n我会用网络公开信息推出否定结论。\n1.苏同学在和另一位叶同学的邮件选「礁石边的絮语」中叙述过感情生活，文革离校前的恋爱经历是和舞蹈队另一位吴同学（图一左一），其任职过北工大教授，大名不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2090848349947891712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQvfxnbEAAnVdz.jpg",
+        "width": 2097
+      },
+      {
+        "height": 1588,
+        "media_key": "3_2090848349947916288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQvfxnbcAASpfb.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090926368523726994",
+        "created_at": "2026-08-21T22:17:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090926368523726994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2058846085867790337",
+              "start": 3,
+              "username": "bambooboo1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090926368523726994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090848374614552757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bambooboo1989: 一些人初见这张照片的念头：老胡和舞伴苏同学有花边故事？\n我会用网络公开信息推出否定结论。\n1.苏同学在和另一位叶同学的邮件选「礁石边的絮语」中叙述过感情生活，文革离校前的恋爱经历是和舞蹈队另一位吴同学（图一左一），其任职过北工大教授，大名不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090848349947891712",
+            "3_2090848349947916288"
+          ]
+        },
+        "author_id": "2058846085867790337",
+        "conversation_id": "2090848374614552757",
+        "created_at": "2026-08-21T17:07:53.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090848374614552757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aX7Cl0Z0Sd",
+              "end": 166,
+              "expanded_url": "https://x.com/bambooboo1989/status/2090848374614552757/photo/1",
+              "media_key": "3_2090848349947891712",
+              "start": 143,
+              "url": "https://t.co/aX7Cl0Z0Sd"
+            },
+            {
+              "display_url": "pic.x.com/aX7Cl0Z0Sd",
+              "end": 166,
+              "expanded_url": "https://x.com/bambooboo1989/status/2090848374614552757/photo/1",
+              "media_key": "3_2090848349947916288",
+              "start": 143,
+              "url": "https://t.co/aX7Cl0Z0Sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090848374614552757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090848349947891712"
+          },
+          {
+            "media_key": "3_2090848349947916288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 371,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一些人初见这张照片的念头：老胡和舞伴苏同学有花边故事？\n我会用网络公开信息推出否定结论。\n1.苏同学在和另一位叶同学的邮件选「礁石边的絮语」中叙述过感情生活，文革离校前的恋爱经历是和舞蹈队另一位吴同学（图一左一），其任职过北工大教授，大名不表。之后的恋爱经历和清华再无关系。（楼内续） https://t.co/aX7Cl0Z0Sd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090926368523726994",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8969,
+          "following_count": 747,
+          "like_count": 19728,
+          "listed_count": 15,
+          "media_count": 151,
+          "tweet_count": 2923
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T09:44:51.000Z",
+        "description": "涛蜜｜自由右翼｜婉拒粉红激左｜全网最尊重老胡第一位秘书的账号",
+        "id": "2058846085867790337",
+        "is_identity_verified": false,
+        "location": "广顺路17号院",
+        "most_recent_tweet_id": "2090869454620262871",
+        "name": "Argus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058846085867790337/1783587546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075141815909715969/i6mvVk4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 178,
+          "like_count": 4967,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "bambooboo1989",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

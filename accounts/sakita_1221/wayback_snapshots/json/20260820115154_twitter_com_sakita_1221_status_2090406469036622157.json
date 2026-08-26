@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090406417052352512"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090406469036622157",
+    "created_at": "2026-08-20T11:51:54.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090406469036622157"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "胡锦涛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pYrgfkKePV",
+          "end": 46,
+          "expanded_url": "https://x.com/sakita_1221/status/2090406469036622157/video/1",
+          "media_key": "13_2090406417052352512",
+          "start": 23,
+          "url": "https://t.co/pYrgfkKePV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090406469036622157",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090406417052352512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“我本将心向明月，奈何明月照沟渠”\n#胡锦涛 https://t.co/pYrgfkKePV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28094,
+        "height": 720,
+        "media_key": "13_2090406417052352512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090406417052352512/img/Kx1BoM2cY0PJ4wmp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090406417052352512/vid/avc1/360x270/DROfcWZLUkKwSyxS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090406417052352512/vid/avc1/480x360/yX9NxPeOI7Xkuj5h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090406417052352512/vid/avc1/960x720/6MaIrs3Cddq24wzx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090406417052352512/pl/x4z55e8-_qu-iG18.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090406417052352512"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090406469036622157",
+        "created_at": "2026-08-20T11:51:54.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090406469036622157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "胡锦涛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYrgfkKePV",
+              "end": 46,
+              "expanded_url": "https://x.com/sakita_1221/status/2090406469036622157/video/1",
+              "media_key": "13_2090406417052352512",
+              "start": 23,
+              "url": "https://t.co/pYrgfkKePV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090406469036622157",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090406417052352512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我本将心向明月，奈何明月照沟渠”\n#胡锦涛 https://t.co/pYrgfkKePV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090406469036622157",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904,
+          "following_count": 740,
+          "like_count": 19643,
+          "listed_count": 15,
+          "media_count": 149,
+          "tweet_count": 2904
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

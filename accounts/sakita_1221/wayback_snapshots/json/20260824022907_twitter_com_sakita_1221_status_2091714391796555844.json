@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091656810323161088"
+      ],
+      "media_source_tweet_id": [
+        "2091656821685596246"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2091714391796555844",
+    "created_at": "2026-08-24T02:29:07.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T03:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091714391796555844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1265612473840865281",
+          "start": 3,
+          "username": "magixx772"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUie9G1qZ4",
+          "end": 38,
+          "expanded_url": "https://x.com/magixx772/status/2091656821685596246/photo/1",
+          "media_key": "3_2091656810323161088",
+          "start": 15,
+          "url": "https://t.co/GUie9G1qZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091714391796555844",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091656810323161088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091656821685596246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magixx772: https://t.co/GUie9G1qZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091656810323161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcOyXNWsAA0NhD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091656810323161088"
+          ],
+          "media_source_tweet_id": [
+            "2091656821685596246"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2091714391796555844",
+        "created_at": "2026-08-24T02:29:07.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091714391796555844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1265612473840865281",
+              "start": 3,
+              "username": "magixx772"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUie9G1qZ4",
+              "end": 38,
+              "expanded_url": "https://x.com/magixx772/status/2091656821685596246/photo/1",
+              "media_key": "3_2091656810323161088",
+              "start": 15,
+              "url": "https://t.co/GUie9G1qZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091714391796555844",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091656810323161088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091656821685596246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magixx772: https://t.co/GUie9G1qZ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091656810323161088"
+          ]
+        },
+        "author_id": "1265612473840865281",
+        "conversation_id": "2091656821685596246",
+        "created_at": "2026-08-23T22:40:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091656821685596246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUie9G1qZ4",
+              "end": 23,
+              "expanded_url": "https://x.com/magixx772/status/2091656821685596246/photo/1",
+              "media_key": "3_2091656810323161088",
+              "start": 0,
+              "url": "https://t.co/GUie9G1qZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091656821685596246",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091656810323161088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 69309,
+          "like_count": 7665,
+          "quote_count": 8,
+          "reply_count": 111,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GUie9G1qZ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2091714391796555844",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8993,
+          "following_count": 748,
+          "like_count": 19884,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2949
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-27T11:55:10.000Z",
+        "description": "drinking coke without any pressure",
+        "id": "1265612473840865281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091656821685596246",
+        "name": "magixx",
+        "pinned_tweet_id": "1756794742069699010",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265612473840865281/1744898422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614699961093918722/wa6FAHCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72944,
+          "following_count": 311,
+          "like_count": 3399,
+          "listed_count": 221,
+          "media_count": 18,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "magixx772",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

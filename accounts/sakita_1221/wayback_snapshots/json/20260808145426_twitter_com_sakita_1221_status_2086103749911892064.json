@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086053170514739363",
+    "created_at": "2026-08-08T14:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T15:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086103749911892064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073774618268336128",
+          "start": 0,
+          "username": "Gcup50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086103749911892064",
+    "in_reply_to_user_id": "2073774618268336128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086060188507709576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gcup50 真可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2086060172082872320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMsrJEXAAA8RtK.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086053170514739363",
+        "created_at": "2026-08-08T14:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086103749911892064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073774618268336128",
+              "start": 0,
+              "username": "Gcup50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086103749911892064",
+        "in_reply_to_user_id": "2073774618268336128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086060188507709576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gcup50 真可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086060172082872320"
+          ]
+        },
+        "author_id": "2073774618268336128",
+        "conversation_id": "2086053170514739363",
+        "created_at": "2026-08-08T12:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086060188507709576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "sakita_1221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyUGywcRrC",
+              "end": 36,
+              "expanded_url": "https://x.com/Gcup50/status/2086060188507709576/photo/1",
+              "media_key": "3_2086060172082872320",
+              "start": 13,
+              "url": "https://t.co/oyUGywcRrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086060188507709576",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1094,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086053170514739363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakita_1221 https://t.co/oyUGywcRrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "🍑",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8551,
+          "following_count": 715,
+          "like_count": 19402,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 2835
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:23:48.000Z",
+        "description": "苟利国家生死以，岂因祸福避趋之\nIf my country calls, I would give my life without hesitation.\n国のためになるなら、この命を惜しまない。自らの禍福によって、その務めを避けることはない。",
+        "id": "2073774618268336128",
+        "name": "魔蛤师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080728546121486336/-cLfbXh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 251,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "Gcup50",
+        "verified": false
+      }
+    ]
+  }
+}

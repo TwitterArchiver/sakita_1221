@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090144273253773768",
+    "created_at": "2026-08-20T22:43:52.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090570541409390989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955316180639686656",
+          "start": 0,
+          "username": "eeencwss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090570541409390989",
+    "in_reply_to_user_id": "1955316180639686656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090144273253773768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeencwss 😂😂闹麻了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090144273253773768].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090144273253773768",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090144273253773768"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090144273253773768",
+        "created_at": "2026-08-20T22:43:52.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090570541409390989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955316180639686656",
+              "start": 0,
+              "username": "eeencwss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090570541409390989",
+        "in_reply_to_user_id": "1955316180639686656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090144273253773768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeencwss 😂😂闹麻了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090570541409390989",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8933,
+          "following_count": 743,
+          "like_count": 19682,
+          "listed_count": 15,
+          "media_count": 151,
+          "tweet_count": 2914
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-12T17:11:39.000Z",
+        "description": "⌚️废话条^⎚˕⎚^",
+        "id": "1955316180639686656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089779104849809841",
+        "name": "waka",
+        "pinned_tweet_id": "2090117749486063644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955316180639686656/1786929457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089159043512451072/6d-LYPwn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 105,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "eeencwss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

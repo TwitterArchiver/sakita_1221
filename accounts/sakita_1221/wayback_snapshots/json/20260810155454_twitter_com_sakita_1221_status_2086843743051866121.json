@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086715739285954894",
+    "created_at": "2026-08-10T15:54:54.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086843743051866121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983708543607042053",
+          "start": 0,
+          "username": "Lucie06166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086843743051866121",
+    "in_reply_to_user_id": "1983708543607042053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086815818839658926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucie06166 快来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086715739285954894",
+        "created_at": "2026-08-10T15:54:54.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086843743051866121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983708543607042053",
+              "start": 0,
+              "username": "Lucie06166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086843743051866121",
+        "in_reply_to_user_id": "1983708543607042053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086815818839658926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucie06166 快来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983708543607042053",
+        "conversation_id": "2086715739285954894",
+        "created_at": "2026-08-10T14:03:57.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086815818839658926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "sakita_1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086815818839658926",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086715739285954894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakita_1221 好想来玩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086843743051866121",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8716,
+          "following_count": 724,
+          "like_count": 19373,
+          "listed_count": 15,
+          "media_count": 143,
+          "tweet_count": 2862
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T01:32:36.000Z",
+        "description": "海内存知己  天涯若比邻",
+        "id": "1983708543607042053",
+        "is_identity_verified": false,
+        "location": "东京",
+        "most_recent_tweet_id": "2086815818839658926",
+        "name": "lu cie n",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983708543607042053/1762738912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983708779574333441/4bYVcU0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Lucie06166",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

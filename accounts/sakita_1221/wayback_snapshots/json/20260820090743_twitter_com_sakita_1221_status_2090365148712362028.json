@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090341917724971332",
+    "created_at": "2026-08-20T09:07:43.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090365148712362028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968187553695272960",
+          "start": 0,
+          "username": "EzraRan__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090365148712362028",
+    "in_reply_to_user_id": "1968187553695272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090341917724971332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EzraRan__ 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090341917724971332",
+        "created_at": "2026-08-20T09:07:43.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090365148712362028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968187553695272960",
+              "start": 0,
+              "username": "EzraRan__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090365148712362028",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090341917724971332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzraRan__ 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968187553695272960",
+        "conversation_id": "2090341917724971332",
+        "created_at": "2026-08-20T07:35:24.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090341917724971332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2090333010340024755",
+              "start": 122,
+              "url": "https://t.co/ipliUwfT6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090341917724971332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1772,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090333010340024755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘉豪男大把自己当运动领袖了。醒醒你不是王丹和吾尔开希，也没有北高联。\n你“提议”不会有实质性的变化，因为这只是插曲。白纸运动的举花男士同样得到了关注，但他不是领袖，同样没有动员能力。\n而这甚至不是一场运动，没有主张和诉求，单纯的歧视和战斗爽。 https://t.co/ipliUwfT6F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090365148712362028",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8903,
+          "following_count": 740,
+          "like_count": 19632,
+          "listed_count": 15,
+          "media_count": 148,
+          "tweet_count": 2901
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "高強度上網衝浪，過激評論可能，海涵。\n#StandWithUkraine 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 19,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "is_identity_verified": false,
+        "location": "亞太",
+        "most_recent_tweet_id": "2090346283559248115",
+        "name": "漣 絵樹羅Ezra",
+        "pinned_tweet_id": "2067193313460195625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968187553695272960/1781639025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 2488,
+          "like_count": 33482,
+          "listed_count": 4,
+          "media_count": 1298,
+          "tweet_count": 10264
+        },
+        "url": "",
+        "username": "EzraRan__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

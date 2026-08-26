@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086297570171908096"
+      ],
+      "media_source_tweet_id": [
+        "2086297606104223929"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086380358547984751",
+    "created_at": "2026-08-09T09:13:35.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086380358547984751"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "胡锦涛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1501827076231696386",
+          "start": 3,
+          "username": "kkkiku233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rKjLN0AlZW",
+          "end": 60,
+          "expanded_url": "https://x.com/kkkiku233/status/2086297606104223929/video/1",
+          "media_key": "13_2086297570171908096",
+          "start": 37,
+          "url": "https://t.co/rKjLN0AlZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086380358547984751",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086297570171908096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086297606104223929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkkiku233: 休言万事转头空，未转头时皆梦。\n\n#胡锦涛 https://t.co/rKjLN0AlZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20108,
+        "height": 720,
+        "media_key": "13_2086297570171908096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086297570171908096/img/HozZoqSdp5iBMCJ9.jpg",
+        "public_metrics": {
+          "view_count": 14109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086297570171908096/vid/avc1/480x270/cUCYCXoj7Ic2U7iU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086297570171908096/vid/avc1/640x360/DJbR9d7nVygpm2KA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086297570171908096/vid/avc1/1280x720/EAVtpaW7pnW6zAqP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086297570171908096/pl/qKbCRQmA7bMMZxPQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086297570171908096"
+          ]
+        },
+        "author_id": "1501827076231696386",
+        "conversation_id": "2086297606104223929",
+        "created_at": "2026-08-09T03:44:45.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086297606104223929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "胡锦涛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKjLN0AlZW",
+              "end": 45,
+              "expanded_url": "https://x.com/kkkiku233/status/2086297606104223929/video/1",
+              "media_key": "13_2086297570171908096",
+              "start": 22,
+              "url": "https://t.co/rKjLN0AlZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086297606104223929",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086297570171908096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 29297,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "休言万事转头空，未转头时皆梦。\n\n#胡锦涛 https://t.co/rKjLN0AlZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086297570171908096"
+          ],
+          "media_source_tweet_id": [
+            "2086297606104223929"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086380358547984751",
+        "created_at": "2026-08-09T09:13:35.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086380358547984751"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "胡锦涛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1501827076231696386",
+              "start": 3,
+              "username": "kkkiku233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKjLN0AlZW",
+              "end": 60,
+              "expanded_url": "https://x.com/kkkiku233/status/2086297606104223929/video/1",
+              "media_key": "13_2086297570171908096",
+              "start": 37,
+              "url": "https://t.co/rKjLN0AlZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086380358547984751",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086297570171908096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086297606104223929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkkiku233: 休言万事转头空，未转头时皆梦。\n\n#胡锦涛 https://t.co/rKjLN0AlZW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086380358547984751",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8637,
+          "following_count": 718,
+          "like_count": 19387,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 2843
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-10T07:47:41.000Z",
+        "description": "而我呢 只是一个🍑孝女｜🍑公梦etj｜20↑\n博爱但桃＞一切｜悠悠天地內，不死會相逢\n主页内容均为oc与现实人物无关｜不键政\n坚决拥护中国共产党的领导及现有体制爱国爱党爱人民",
+        "id": "1501827076231696386",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086378756214841710",
+        "name": "yukine",
+        "pinned_tweet_id": "2079809967385891237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501827076231696386/1785689664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076338328488812544/85d_k1a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 229,
+          "like_count": 3095,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "kkkiku233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

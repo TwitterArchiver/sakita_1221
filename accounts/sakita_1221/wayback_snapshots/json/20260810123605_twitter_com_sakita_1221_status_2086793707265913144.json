@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086715739285954894",
+    "created_at": "2026-08-10T12:36:05.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086793707265913144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2070438290197782528",
+          "start": 0,
+          "username": "SalimaKushaani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086793707265913144",
+    "in_reply_to_user_id": "2070438290197782528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086737975678046242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalimaKushaani 拍的真好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2086737801245270016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWU-WaaoAArxO0.jpg",
+        "width": 3060
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2086737860280143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWVByVbUAAG9XF.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2086737924427808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWVFhTbAAAqhkY.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2086737959529914368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWVHkEaoAA3czY.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086715739285954894",
+        "created_at": "2026-08-10T12:36:05.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086793707265913144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2070438290197782528",
+              "start": 0,
+              "username": "SalimaKushaani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086793707265913144",
+        "in_reply_to_user_id": "2070438290197782528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086737975678046242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalimaKushaani 拍的真好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086737801245270016",
+            "3_2086737860280143872",
+            "3_2086737924427808768",
+            "3_2086737959529914368"
+          ]
+        },
+        "author_id": "2070438290197782528",
+        "conversation_id": "2086715739285954894",
+        "created_at": "2026-08-10T08:54:37.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086737975678046242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "sakita_1221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXpV0wIs8R",
+              "end": 36,
+              "expanded_url": "https://x.com/SalimaKushaani/status/2086737975678046242/photo/1",
+              "media_key": "3_2086737801245270016",
+              "start": 13,
+              "url": "https://t.co/nXpV0wIs8R"
+            },
+            {
+              "display_url": "pic.x.com/nXpV0wIs8R",
+              "end": 36,
+              "expanded_url": "https://x.com/SalimaKushaani/status/2086737975678046242/photo/1",
+              "media_key": "3_2086737860280143872",
+              "start": 13,
+              "url": "https://t.co/nXpV0wIs8R"
+            },
+            {
+              "display_url": "pic.x.com/nXpV0wIs8R",
+              "end": 36,
+              "expanded_url": "https://x.com/SalimaKushaani/status/2086737975678046242/photo/1",
+              "media_key": "3_2086737924427808768",
+              "start": 13,
+              "url": "https://t.co/nXpV0wIs8R"
+            },
+            {
+              "display_url": "pic.x.com/nXpV0wIs8R",
+              "end": 36,
+              "expanded_url": "https://x.com/SalimaKushaani/status/2086737975678046242/photo/1",
+              "media_key": "3_2086737959529914368",
+              "start": 13,
+              "url": "https://t.co/nXpV0wIs8R"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2086737975678046242",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086737801245270016"
+          },
+          {
+            "media_key": "3_2086737860280143872"
+          },
+          {
+            "media_key": "3_2086737924427808768"
+          },
+          {
+            "media_key": "3_2086737959529914368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086715739285954894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakita_1221 https://t.co/nXpV0wIs8R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086793707265913144",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8716,
+          "following_count": 723,
+          "like_count": 19362,
+          "listed_count": 15,
+          "media_count": 143,
+          "tweet_count": 2858
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T09:26:28.000Z",
+        "description": "",
+        "id": "2070438290197782528",
+        "is_identity_verified": false,
+        "location": "大邗民國",
+        "most_recent_tweet_id": "2086737975678046242",
+        "name": "Zahra🇵🇸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070438290197782528/1785087976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083978702421987328/3ei9N4A-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 328,
+          "like_count": 7084,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "SalimaKushaani",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2087520879169417370",
+    "created_at": "2026-08-12T21:49:28.000Z",
+    "display_text_range": [
+      10,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T22:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087657748276429253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2069304000500142080",
+          "start": 0,
+          "username": "hjtcswjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087657748276429253",
+    "in_reply_to_user_id": "2069304000500142080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087520879169417370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjtcswjb 当时改革触动了很多铁饭碗的利益，还有下岗潮（东北人确实真的不易）在那个发展阶段不去做些什么会导致社会出现的问题愈发严重，虽伤害很大但是不能不做，那是中国进入腾飞的关键阶段，虽然他的评价两极分化，但抛开这些问题他依旧一个非常务实能干的人功绩是实打实的，最后的是非功过还是要留给后人说"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087520879169417370].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087520879169417370",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087520879169417370"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2087520879169417370",
+        "created_at": "2026-08-12T21:49:28.000Z",
+        "display_text_range": [
+          10,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087657748276429253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2069304000500142080",
+              "start": 0,
+              "username": "hjtcswjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087657748276429253",
+        "in_reply_to_user_id": "2069304000500142080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087520879169417370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjtcswjb 当时改革触动了很多铁饭碗的利益，还有下岗潮（东北人确实真的不易）在那个发展阶段不去做些什么会导致社会出现的问题愈发严重，虽伤害很大但是不能不做，那是中国进入腾飞的关键阶段，虽然他的评价两极分化，但抛开这些问题他依旧一个非常务实能干的人功绩是实打实的，最后的是非功过还是要留给后人说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2087657748276429253",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8757,
+          "following_count": 733,
+          "like_count": 19431,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2875
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T06:19:29.000Z",
+        "description": "团派。胡锦涛温家宝公嬷一体机。李克强公公。汪洋公公。会淫追。支持现有体制，无任何反动思想，支持中国共产党，爱党爱国爱人民。",
+        "id": "2069304000500142080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2071469731887092195",
+        "name": "火箭筒狂热男粉丝",
+        "pinned_tweet_id": "2083191059220459666",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069304000500142080/1782196262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084624806855712768/XoY6OAcY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 251,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "hjtcswjb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

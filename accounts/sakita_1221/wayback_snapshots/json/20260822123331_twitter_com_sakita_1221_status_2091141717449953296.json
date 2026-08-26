@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2091101229531435271",
+    "created_at": "2026-08-22T12:33:31.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091141717449953296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084802982202458112",
+          "start": 0,
+          "username": "RacTin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091141717449953296",
+    "in_reply_to_user_id": "2084802982202458112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091101229531435271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RacTin8964 现在吃上了没～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091101229531435271].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091101229531435271",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091101229531435271"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2091101229531435271",
+        "created_at": "2026-08-22T12:33:31.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091141717449953296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084802982202458112",
+              "start": 0,
+              "username": "RacTin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091141717449953296",
+        "in_reply_to_user_id": "2084802982202458112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091101229531435271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RacTin8964 现在吃上了没～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2091141717449953296",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8969,
+          "following_count": 748,
+          "like_count": 19836,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2935
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T00:47:13.000Z",
+        "description": "天园的河流",
+        "id": "2084802982202458112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084804911171264966",
+        "name": "浣熊酊",
+        "pinned_tweet_id": "2090796834012942755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084802982202458112/1785911007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084803503948742656/VohXl9oT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 133,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "RacTin8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

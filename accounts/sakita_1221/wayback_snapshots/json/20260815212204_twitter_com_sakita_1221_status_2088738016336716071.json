@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2088646776001646813",
+    "created_at": "2026-08-15T21:22:04.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T22:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088738016336716071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "257050388",
+          "start": 0,
+          "username": "WanjunXie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088738016336716071",
+    "in_reply_to_user_id": "257050388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088646776001646813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanjunXie 哪有住院生着病还给头发抹发胶的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 328,
+        "media_key": "3_2088646499693412354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxc7OOWwAI-zP8.png",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2088646776001646813",
+        "created_at": "2026-08-15T21:22:04.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088738016336716071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257050388",
+              "start": 0,
+              "username": "WanjunXie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088738016336716071",
+        "in_reply_to_user_id": "257050388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088646776001646813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanjunXie 哪有住院生着病还给头发抹发胶的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088646499693412354"
+          ]
+        },
+        "author_id": "257050388",
+        "conversation_id": "2088646776001646813",
+        "created_at": "2026-08-15T15:19:31.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088646776001646813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iiK3Wch5a",
+              "end": 59,
+              "expanded_url": "https://x.com/WanjunXie/status/2088646776001646813/photo/1",
+              "media_key": "3_2088646499693412354",
+              "start": 36,
+              "url": "https://t.co/1iiK3Wch5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088646776001646813",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088646499693412354"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 25763,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "国内疯狂删帖的一张图片！这张照片，证明了海外的谣言就是遥遥领先的预言。 https://t.co/1iiK3Wch5a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2088738016336716071",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8781,
+          "following_count": 737,
+          "like_count": 19444,
+          "listed_count": 15,
+          "media_count": 145,
+          "tweet_count": 2894
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-24T16:31:06.000Z",
+        "description": "中国民主党主席 Chairman of China Dempcracy Party\n 中国民主党的政治理念：公平、公正、天下为公！\nIdea of CDP: Fireness, Justice and the Political Power belong to all Citizens!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqcdp.org",
+                "end": 23,
+                "expanded_url": "http://www.hqcdp.org",
+                "start": 0,
+                "url": "https://t.co/6NrkK1ZJb3"
+              }
+            ]
+          }
+        },
+        "id": "257050388",
+        "is_identity_verified": false,
+        "location": "New York",
+        "most_recent_tweet_id": "2088724260504182977",
+        "name": "谢万军 Wanjun Xie",
+        "pinned_tweet_id": "1777780487869669623",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257050388/1774268357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995369969018601472/bcX4s1lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147310,
+          "following_count": 2424,
+          "like_count": 51220,
+          "listed_count": 615,
+          "media_count": 21638,
+          "tweet_count": 60685
+        },
+        "url": "https://t.co/6NrkK1ZJb3",
+        "username": "WanjunXie",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

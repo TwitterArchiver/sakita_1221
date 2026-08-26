@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2091106384272040093",
+    "created_at": "2026-08-22T10:34:44.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091111825031201056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863535968",
+          "start": 0,
+          "username": "JIAnGHuTAo44369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091111825031201056",
+    "in_reply_to_user_id": "1863535968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091106384272040093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAnGHuTAo44369 就是有这种🎣的傻福 一股味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2976,
+        "media_key": "3_2091106373056507904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUaKsmWsAAOxUc.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2091106384272040093",
+        "created_at": "2026-08-22T10:34:44.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091111825031201056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863535968",
+              "start": 0,
+              "username": "JIAnGHuTAo44369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091111825031201056",
+        "in_reply_to_user_id": "1863535968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091106384272040093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAnGHuTAo44369 就是有这种🎣的傻福 一股味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091106373056507904"
+          ]
+        },
+        "author_id": "1863535968",
+        "conversation_id": "2091106384272040093",
+        "created_at": "2026-08-22T10:13:07.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091106384272040093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtUqLI8OUm",
+              "end": 41,
+              "expanded_url": "https://x.com/JIAnGHuTAo44369/status/2091106384272040093/photo/1",
+              "media_key": "3_2091106373056507904",
+              "start": 18,
+              "url": "https://t.co/jtUqLI8OUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091106384272040093",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091106373056507904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天咒人死，你爱你妈比胡锦涛，傻逼 https://t.co/jtUqLI8OUm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2091111825031201056",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8971,
+          "following_count": 749,
+          "like_count": 19808,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2929
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-14T11:47:56.000Z",
+        "description": "我們沉默在時間始前\n轉生。。反胡賊都被我殺光了",
+        "id": "1863535968",
+        "is_identity_verified": false,
+        "location": "胡锦涛的子宫",
+        "most_recent_tweet_id": "2091107574800118030",
+        "name": "弹涛奶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863535968/1786850616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090523728513777664/ZtsMeI9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 44,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "JIAnGHuTAo44369",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

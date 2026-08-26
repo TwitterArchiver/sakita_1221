@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2087543662343504167",
+    "created_at": "2026-08-12T22:15:07.000Z",
+    "display_text_range": [
+      15,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T23:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087664203415060822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827691072652554240",
+          "start": 0,
+          "username": "HannemanAraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087664203415060822",
+    "in_reply_to_user_id": "1827691072652554240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087543662343504167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HannemanAraya 每次推上传谣都已经闹的和疯子一样了！！真走了那还了得"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087543662343504167].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087543662343504167",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087543662343504167"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2087543662343504167",
+        "created_at": "2026-08-12T22:15:07.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087664203415060822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827691072652554240",
+              "start": 0,
+              "username": "HannemanAraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087664203415060822",
+        "in_reply_to_user_id": "1827691072652554240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087543662343504167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HannemanAraya 每次推上传谣都已经闹的和疯子一样了！！真走了那还了得"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2087664203415060822",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8757,
+          "following_count": 734,
+          "like_count": 19451,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2878
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-25T12:54:56.000Z",
+        "description": "日常，与我小号结仇的勿连坐本账号",
+        "id": "1827691072652554240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086094431711641760",
+        "name": "🍔",
+        "pinned_tweet_id": "2086869458522415212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827691072652554240/1785812985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062566643163664385/yECLASBb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 330,
+          "like_count": 3297,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "HannemanAraya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090745444855140385",
+    "created_at": "2026-08-22T12:36:24.000Z",
+    "display_text_range": [
+      28,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091142444427719166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028659650405773312",
+          "start": 0,
+          "username": "ThouShaltAtone"
+        },
+        {
+          "end": 27,
+          "id": "1865705903640698881",
+          "start": 16,
+          "username": "Li665508Li"
+        },
+        {
+          "end": 41,
+          "id": "2090432000004149248",
+          "start": 28,
+          "username": "dream4Odette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091142444427719166",
+    "in_reply_to_user_id": "2028659650405773312",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090903042774491262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThouShaltAtone @Li665508Li @dream4Odette"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090745444855140385",
+        "created_at": "2026-08-22T12:36:24.000Z",
+        "display_text_range": [
+          28,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091142444427719166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028659650405773312",
+              "start": 0,
+              "username": "ThouShaltAtone"
+            },
+            {
+              "end": 27,
+              "id": "1865705903640698881",
+              "start": 16,
+              "username": "Li665508Li"
+            },
+            {
+              "end": 41,
+              "id": "2090432000004149248",
+              "start": 28,
+              "username": "dream4Odette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091142444427719166",
+        "in_reply_to_user_id": "2028659650405773312",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090903042774491262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThouShaltAtone @Li665508Li @dream4Odette"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028659650405773312",
+        "conversation_id": "2090745444855140385",
+        "created_at": "2026-08-21T20:45:07.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090903042774491262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865705903640698881",
+              "start": 0,
+              "username": "Li665508Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090903042774491262",
+        "in_reply_to_user_id": "1865705903640698881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58970,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090745444855140385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li665508Li 他跟郭麒麟在一起了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2091142444427719166",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8969,
+          "following_count": 748,
+          "like_count": 19844,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T02:32:25.000Z",
+        "description": "性别：男。爱好：非支男的男。Radfem. 素质特别差，骂支男骂得特难听！😆",
+        "id": "2028659650405773312",
+        "is_identity_verified": false,
+        "location": "West Hollywood, CA",
+        "most_recent_tweet_id": "2091141093517844917",
+        "name": "大胆刁民🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028659650405773312/1774804121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063741006500237312/Q-mcT30q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 40,
+          "like_count": 1639,
+          "listed_count": 11,
+          "media_count": 67,
+          "tweet_count": 2631
+        },
+        "url": "",
+        "username": "ThouShaltAtone",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-08T10:32:18.000Z",
+        "description": "佐助未必有我帅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Yuviup",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Yuviup",
+                "start": 0,
+                "url": "https://t.co/yc6UxG0a6o"
+              }
+            ]
+          }
+        },
+        "id": "1865705903640698881",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091123460558962948",
+        "name": "Yuvi",
+        "pinned_tweet_id": "2069614475142132071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865705903640698881/1770890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036027607808905217/RqaWpvw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11163,
+          "following_count": 403,
+          "like_count": 7302,
+          "listed_count": 41,
+          "media_count": 943,
+          "tweet_count": 13227
+        },
+        "url": "https://t.co/yc6UxG0a6o",
+        "username": "Li665508Li",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T13:34:38.000Z",
+        "description": "12345全肯定",
+        "id": "2090432000004149248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090450553558167955",
+        "name": "二番星",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090432565060698112/sb-zOtfQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "dream4Odette",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

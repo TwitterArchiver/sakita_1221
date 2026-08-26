@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086019138242465858",
+    "created_at": "2026-08-08T11:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T12:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086052902402220181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958757234923773954",
+          "start": 0,
+          "username": "Sp1ral1379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086052902402220181",
+    "in_reply_to_user_id": "1958757234923773954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086019138242465858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sp1ral1379 好会画🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086019128192884736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMHWEqbYAAR2L0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086019138242465858",
+        "created_at": "2026-08-08T11:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086052902402220181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958757234923773954",
+              "start": 0,
+              "username": "Sp1ral1379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086052902402220181",
+        "in_reply_to_user_id": "1958757234923773954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086019138242465858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sp1ral1379 好会画🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086019128192884736"
+          ]
+        },
+        "author_id": "1958757234923773954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086019138242465858",
+        "created_at": "2026-08-08T09:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T10:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086019138242465858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "胡锦涛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWQR5SAiuj",
+              "end": 36,
+              "expanded_url": "https://x.com/Sp1ral1379/status/2086019138242465858/photo/1",
+              "media_key": "3_2086019128192884736",
+              "start": 13,
+              "url": "https://t.co/hWQR5SAiuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086019138242465858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌声与微笑...#胡锦涛 https://t.co/hWQR5SAiuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "🍑",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8523,
+          "following_count": 716,
+          "like_count": 19385,
+          "listed_count": 15,
+          "media_count": 140,
+          "tweet_count": 2844
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T05:05:06.000Z",
+        "description": "精神自留地",
+        "id": "1958757234923773954",
+        "location": "马里亚纳海沟之底",
+        "name": "用户1379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083361705481195520/cDnq20e6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 108,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "Sp1ral1379",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086752223552581870",
+    "created_at": "2026-08-10T12:37:11.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086793985713160503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070892047251423232",
+          "start": 0,
+          "username": "Aaarrri_1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086793985713160503",
+    "in_reply_to_user_id": "2070892047251423232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086752223552581870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaarrri_1006 我他妈不行了我草真闹麻了。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086752223552581870",
+        "created_at": "2026-08-10T12:37:11.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086793985713160503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070892047251423232",
+              "start": 0,
+              "username": "Aaarrri_1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086793985713160503",
+        "in_reply_to_user_id": "2070892047251423232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086752223552581870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaarrri_1006 我他妈不行了我草真闹麻了。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070892047251423232",
+        "conversation_id": "2086752223552581870",
+        "created_at": "2026-08-10T09:51:14.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086752223552581870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aczymay/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/aczymay/status/2086421582369444033",
+              "start": 15,
+              "url": "https://t.co/zqdVtdQaT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086752223552581870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1260,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086421582369444033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没有看见这么纯血的嘉豪了 https://t.co/zqdVtdQaT4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086793985713160503",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8716,
+          "following_count": 723,
+          "like_count": 19364,
+          "listed_count": 15,
+          "media_count": 143,
+          "tweet_count": 2859
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T15:30:50.000Z",
+        "description": "月色随风摇摆我仍飞奔向海",
+        "id": "2070892047251423232",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2086772206349205640",
+        "name": "waka",
+        "pinned_tweet_id": "2085813384541540442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070892047251423232/1784516754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082604234655358976/NVOad_tL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 157,
+          "like_count": 2491,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Aaarrri_1006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

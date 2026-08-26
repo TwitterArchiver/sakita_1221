@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088611192256573440",
+        "3_2088611192260685824",
+        "3_2088611192227196928",
+        "3_2088611192256483329"
+      ],
+      "media_source_tweet_id": [
+        "2088611299030876191",
+        "2088611299030876191",
+        "2088611299030876191",
+        "2088611299030876191"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2088616661452771574",
+    "created_at": "2026-08-15T13:19:51.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088616661452771574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2058846085867790337",
+          "start": 3,
+          "username": "bambooboo1989"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxsQBPA4yK",
+          "end": 55,
+          "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+          "media_key": "3_2088611192256573440",
+          "start": 32,
+          "url": "https://t.co/bxsQBPA4yK"
+        },
+        {
+          "display_url": "pic.x.com/bxsQBPA4yK",
+          "end": 55,
+          "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+          "media_key": "3_2088611192260685824",
+          "start": 32,
+          "url": "https://t.co/bxsQBPA4yK"
+        },
+        {
+          "display_url": "pic.x.com/bxsQBPA4yK",
+          "end": 55,
+          "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+          "media_key": "3_2088611192227196928",
+          "start": 32,
+          "url": "https://t.co/bxsQBPA4yK"
+        },
+        {
+          "display_url": "pic.x.com/bxsQBPA4yK",
+          "end": 55,
+          "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+          "media_key": "3_2088611192256483329",
+          "start": 32,
+          "url": "https://t.co/bxsQBPA4yK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088616661452771574",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088611192256573440"
+      },
+      {
+        "media_key": "3_2088611192260685824"
+      },
+      {
+        "media_key": "3_2088611192227196928"
+      },
+      {
+        "media_key": "3_2088611192256483329"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088611299030876191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bambooboo1989: 摸鱼的，画丑了算他自己丑 https://t.co/bxsQBPA4yK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3307,
+        "media_key": "3_2088611192256573440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw80DxbsAA2kH2.jpg",
+        "width": 2480
+      },
+      {
+        "height": 2427,
+        "media_key": "3_2088611192260685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw80DyacAAG57p.jpg",
+        "width": 2427
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2088611192227196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw80DqbcAAZLL7.jpg",
+        "width": 2244
+      },
+      {
+        "height": 2459,
+        "media_key": "3_2088611192256483329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw80DxaUAEXDn7.jpg",
+        "width": 2459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088611192256573440",
+            "3_2088611192260685824",
+            "3_2088611192227196928",
+            "3_2088611192256483329"
+          ],
+          "media_source_tweet_id": [
+            "2088611299030876191",
+            "2088611299030876191",
+            "2088611299030876191",
+            "2088611299030876191"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2088616661452771574",
+        "created_at": "2026-08-15T13:19:51.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088616661452771574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2058846085867790337",
+              "start": 3,
+              "username": "bambooboo1989"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 55,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192256573440",
+              "start": 32,
+              "url": "https://t.co/bxsQBPA4yK"
+            },
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 55,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192260685824",
+              "start": 32,
+              "url": "https://t.co/bxsQBPA4yK"
+            },
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 55,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192227196928",
+              "start": 32,
+              "url": "https://t.co/bxsQBPA4yK"
+            },
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 55,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192256483329",
+              "start": 32,
+              "url": "https://t.co/bxsQBPA4yK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088616661452771574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088611192256573440"
+          },
+          {
+            "media_key": "3_2088611192260685824"
+          },
+          {
+            "media_key": "3_2088611192227196928"
+          },
+          {
+            "media_key": "3_2088611192256483329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088611299030876191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bambooboo1989: 摸鱼的，画丑了算他自己丑 https://t.co/bxsQBPA4yK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088611192256573440",
+            "3_2088611192260685824",
+            "3_2088611192227196928",
+            "3_2088611192256483329"
+          ]
+        },
+        "author_id": "2058846085867790337",
+        "conversation_id": "2088611299030876191",
+        "created_at": "2026-08-15T12:58:32.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088611299030876191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 36,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192256573440",
+              "start": 13,
+              "url": "https://t.co/bxsQBPA4yK"
+            },
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 36,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192260685824",
+              "start": 13,
+              "url": "https://t.co/bxsQBPA4yK"
+            },
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 36,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192227196928",
+              "start": 13,
+              "url": "https://t.co/bxsQBPA4yK"
+            },
+            {
+              "display_url": "pic.x.com/bxsQBPA4yK",
+              "end": 36,
+              "expanded_url": "https://x.com/bambooboo1989/status/2088611299030876191/photo/1",
+              "media_key": "3_2088611192256483329",
+              "start": 13,
+              "url": "https://t.co/bxsQBPA4yK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088611299030876191",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088611192256573440"
+          },
+          {
+            "media_key": "3_2088611192260685824"
+          },
+          {
+            "media_key": "3_2088611192227196928"
+          },
+          {
+            "media_key": "3_2088611192256483329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "摸鱼的，画丑了算他自己丑 https://t.co/bxsQBPA4yK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2088616661452771574",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8759,
+          "following_count": 737,
+          "like_count": 19425,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2886
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T09:44:51.000Z",
+        "description": "涛蜜｜自由右翼｜婉拒粉红激左｜全网最尊重老胡第一位秘书的账号",
+        "id": "2058846085867790337",
+        "is_identity_verified": false,
+        "location": "广顺路17号院",
+        "most_recent_tweet_id": "2088611299030876191",
+        "name": "Argus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058846085867790337/1783587546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075141815909715969/i6mvVk4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 161,
+          "like_count": 4168,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "bambooboo1989",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

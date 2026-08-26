@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090410204966031712",
+    "created_at": "2026-08-20T12:10:02.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090411032267325880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752369431102312448",
+          "start": 0,
+          "username": "imnin1o8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090411032267325880",
+    "in_reply_to_user_id": "1752369431102312448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090410204966031712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnin1o8964 辛苦你了宝😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090410192861360128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKg_rRbcAANNEy.jpg",
+        "width": 463
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090410192827715584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKg_rJaEAAoZhB.jpg",
+        "width": 411
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090410193448558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKg_tdbYAAVGWp.jpg",
+        "width": 735
+      },
+      {
+        "height": 726,
+        "media_key": "3_2090410192815243264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKg_rGbwAA_fad.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090410204966031712",
+        "created_at": "2026-08-20T12:10:02.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090411032267325880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752369431102312448",
+              "start": 0,
+              "username": "imnin1o8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090411032267325880",
+        "in_reply_to_user_id": "1752369431102312448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090410204966031712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnin1o8964 辛苦你了宝😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090410192861360128",
+            "3_2090410192827715584",
+            "3_2090410193448558592",
+            "3_2090410192815243264"
+          ]
+        },
+        "author_id": "1752369431102312448",
+        "conversation_id": "2090410204966031712",
+        "created_at": "2026-08-20T12:06:45.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090410204966031712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "汪洋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRSdvAqWGL",
+              "end": 50,
+              "expanded_url": "https://x.com/imnin1o8964/status/2090410204966031712/photo/1",
+              "media_key": "3_2090410192861360128",
+              "start": 27,
+              "url": "https://t.co/mRSdvAqWGL"
+            },
+            {
+              "display_url": "pic.x.com/mRSdvAqWGL",
+              "end": 50,
+              "expanded_url": "https://x.com/imnin1o8964/status/2090410204966031712/photo/1",
+              "media_key": "3_2090410192827715584",
+              "start": 27,
+              "url": "https://t.co/mRSdvAqWGL"
+            },
+            {
+              "display_url": "pic.x.com/mRSdvAqWGL",
+              "end": 50,
+              "expanded_url": "https://x.com/imnin1o8964/status/2090410204966031712/photo/1",
+              "media_key": "3_2090410193448558592",
+              "start": 27,
+              "url": "https://t.co/mRSdvAqWGL"
+            },
+            {
+              "display_url": "pic.x.com/mRSdvAqWGL",
+              "end": 50,
+              "expanded_url": "https://x.com/imnin1o8964/status/2090410204966031712/photo/1",
+              "media_key": "3_2090410192815243264",
+              "start": 27,
+              "url": "https://t.co/mRSdvAqWGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090410204966031712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090410192861360128"
+          },
+          {
+            "media_key": "3_2090410192827715584"
+          },
+          {
+            "media_key": "3_2090410193448558592"
+          },
+          {
+            "media_key": "3_2090410192815243264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "故天将大任于是人也，必先苦其心志，劳其筋骨。 #汪洋 https://t.co/mRSdvAqWGL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090411032267325880",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904,
+          "following_count": 742,
+          "like_count": 19652,
+          "listed_count": 15,
+          "media_count": 150,
+          "tweet_count": 2909
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T16:33:36.000Z",
+        "description": "比辱追善良一点 比淫追纯洁一点 比正规坤懒惰一点 比萌萌人专注一点 比梦女清醒一点 比妈粉爱梦一点 比嬷嬷公一点 比公公嬷一点\n如果@Coco2ja9受委屈我不介意掀翻所有人的拼好饭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Coco2ja9"
+              }
+            ]
+          }
+        },
+        "id": "1752369431102312448",
+        "is_identity_verified": false,
+        "location": "爱海tv",
+        "most_recent_tweet_id": "2090410204966031712",
+        "name": "imnin1o.",
+        "pinned_tweet_id": "2089243691273896148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752369431102312448/1778682496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052283798256275456/4q9q4YQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 149,
+          "like_count": 3522,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 1857
+        },
+        "url": "",
+        "username": "imnin1o8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

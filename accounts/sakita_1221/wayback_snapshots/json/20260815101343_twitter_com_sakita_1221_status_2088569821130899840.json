@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2088487609584779469",
+    "created_at": "2026-08-15T10:13:43.000Z",
+    "display_text_range": [
+      26,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088569821130899840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074755944500867072",
+          "start": 0,
+          "username": "itaotv_1942"
+        },
+        {
+          "end": 25,
+          "id": "1918115529459638272",
+          "start": 13,
+          "username": "babywoof0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088569821130899840",
+    "in_reply_to_user_id": "2074755944500867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088487609584779469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itaotv_1942 @babywoof0v0 我草有链接没我去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2088487609584779469",
+        "created_at": "2026-08-15T10:13:43.000Z",
+        "display_text_range": [
+          26,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088569821130899840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074755944500867072",
+              "start": 0,
+              "username": "itaotv_1942"
+            },
+            {
+              "end": 25,
+              "id": "1918115529459638272",
+              "start": 13,
+              "username": "babywoof0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088569821130899840",
+        "in_reply_to_user_id": "2074755944500867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088487609584779469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itaotv_1942 @babywoof0v0 我草有链接没我去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074755944500867072",
+        "conversation_id": "2088487609584779469",
+        "created_at": "2026-08-15T04:47:03.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088487609584779469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088487609584779469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的绷不住了眼看着火箭筒那个电话卡从二十多涨到一百"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2088569821130899840",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8761,
+          "following_count": 737,
+          "like_count": 19431,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2884
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T07:28:18.000Z",
+        "description": "曾经沧海难为水，除却巫山不是云\n主🍑💼🐼团//1-5g都看",
+        "id": "2074755944500867072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088542750241423745",
+        "name": "山高水长",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074755944500867072/1783512399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079093791970213888/q3cunbdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 147,
+          "like_count": 2923,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "itaotv_1942",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T01:29:27.000Z",
+        "description": "请不要发现我^-^\n⌚️⭕️潜水中🫧\n表男全肯定☝🏻）不建政🫶🏼\n求晶哥放过🙏🙏🙏",
+        "id": "1918115529459638272",
+        "is_identity_verified": false,
+        "location": "执念海里一个阴暗潮湿的角落…",
+        "most_recent_tweet_id": "2080249599743381635",
+        "name": "我吃吃吃吃吃吃吃🥣⌚️",
+        "pinned_tweet_id": "2083071189438841191",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918115529459638272/1756888389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918115735714566144/MvbhmP1G_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 488,
+          "like_count": 7561,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "babywoof0v0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088617431736705024"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2088617753104339120",
+    "created_at": "2026-08-15T13:24:11.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088617753104339120"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "胡锦涛"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "涛核"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "梦核"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "千禧年"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNFe9GabtU",
+          "end": 55,
+          "expanded_url": "https://x.com/sakita_1221/status/2088617753104339120/video/1",
+          "media_key": "13_2088617431736705024",
+          "start": 32,
+          "url": "https://t.co/LNFe9GabtU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088617753104339120",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088617431736705024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你醒啦？现在是2008年。\n#胡锦涛 #涛核 #梦核 #千禧年 https://t.co/LNFe9GabtU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22708,
+        "height": 720,
+        "media_key": "13_2088617431736705024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088617431736705024/img/2ufOT4Em3F9Wg2XM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088617431736705024/vid/avc1/320x320/U5CPc44EY4L9rQfj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088617431736705024/vid/avc1/540x540/0jfruvwra5dtPj_e.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088617431736705024/vid/avc1/720x720/REqGIMGDjQ60CfN8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088617431736705024/pl/AJ_yPZxNxmrsbvRu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088617431736705024"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2088617753104339120",
+        "created_at": "2026-08-15T13:24:11.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088617753104339120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "胡锦涛"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "涛核"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "梦核"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "千禧年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNFe9GabtU",
+              "end": 55,
+              "expanded_url": "https://x.com/sakita_1221/status/2088617753104339120/video/1",
+              "media_key": "13_2088617431736705024",
+              "start": 32,
+              "url": "https://t.co/LNFe9GabtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088617753104339120",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088617431736705024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你醒啦？现在是2008年。\n#胡锦涛 #涛核 #梦核 #千禧年 https://t.co/LNFe9GabtU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2088617753104339120",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8759,
+          "following_count": 737,
+          "like_count": 19427,
+          "listed_count": 15,
+          "media_count": 145,
+          "tweet_count": 2888
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

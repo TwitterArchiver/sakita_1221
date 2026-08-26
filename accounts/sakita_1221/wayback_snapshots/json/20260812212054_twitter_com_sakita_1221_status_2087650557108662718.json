@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2087579025115873501",
+    "created_at": "2026-08-12T21:20:54.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T22:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087650557108662718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857847389215674370",
+          "start": 0,
+          "username": "ZengQingRed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087650557108662718",
+    "in_reply_to_user_id": "1857847389215674370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087579025115873501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZengQingRed 小桃子我亲死你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56122,
+        "height": 480,
+        "media_key": "13_2087579000000380929",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087579000000380929/img/U9PlBTk3TEjbR1JB.jpg",
+        "public_metrics": {
+          "view_count": 1717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087579000000380929/vid/avc1/360x270/yek_stauvTQJZiWL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087579000000380929/vid/avc1/480x360/U1BG-Bv8-A5p-pA1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087579000000380929/vid/avc1/640x480/j_cMxP3hiL0T9RvO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087579000000380929/pl/hlfNXRsvEtI5AD8i.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2087579025115873501",
+        "created_at": "2026-08-12T21:20:54.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087650557108662718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857847389215674370",
+              "start": 0,
+              "username": "ZengQingRed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087650557108662718",
+        "in_reply_to_user_id": "1857847389215674370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087579025115873501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZengQingRed 小桃子我亲死你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087579000000380929"
+          ]
+        },
+        "author_id": "1857847389215674370",
+        "conversation_id": "2087579025115873501",
+        "created_at": "2026-08-12T16:36:39.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087579025115873501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQdi2jSpKV",
+              "end": 27,
+              "expanded_url": "https://x.com/ZengQingRed/status/2087579025115873501/video/1",
+              "media_key": "13_2087579000000380929",
+              "start": 4,
+              "url": "https://t.co/NQdi2jSpKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087579025115873501",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087579000000380929"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3405,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皮皮涛 https://t.co/NQdi2jSpKV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2087650557108662718",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8758,
+          "following_count": 732,
+          "like_count": 19403,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2872
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-16T18:05:23.000Z",
+        "description": "前政治局常委国家副主席曾庆红",
+        "id": "1857847389215674370",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087582725460898106",
+        "name": "曾庆红亲王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857847389215674370/1731780964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060102987796676610/rIP8CHLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 381,
+          "like_count": 789,
+          "listed_count": 2,
+          "media_count": 1120,
+          "tweet_count": 5052
+        },
+        "url": "",
+        "username": "ZengQingRed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090408009017262080"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090299270641688681",
+    "created_at": "2026-08-20T11:58:03.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090408015732314302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058846085867790337",
+          "start": 0,
+          "username": "bambooboo1989"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yIuOofw3O",
+          "end": 49,
+          "expanded_url": "https://x.com/sakita_1221/status/2090408015732314302/photo/1",
+          "media_key": "3_2090408009017262080",
+          "start": 26,
+          "url": "https://t.co/5yIuOofw3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090408015732314302",
+    "in_reply_to_user_id": "2058846085867790337",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090408009017262080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090299270641688681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bambooboo1989 怎么这么大的门牌！！ https://t.co/5yIuOofw3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2090408009017262080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKfAj0bAAAZrna.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2090299178127867905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQI8BxKaQAEY5KS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2090299178132115456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQI8BxLbEAA2y5q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090408009017262080"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090299270641688681",
+        "created_at": "2026-08-20T11:58:03.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090408015732314302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058846085867790337",
+              "start": 0,
+              "username": "bambooboo1989"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yIuOofw3O",
+              "end": 49,
+              "expanded_url": "https://x.com/sakita_1221/status/2090408015732314302/photo/1",
+              "media_key": "3_2090408009017262080",
+              "start": 26,
+              "url": "https://t.co/5yIuOofw3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090408015732314302",
+        "in_reply_to_user_id": "2058846085867790337",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090408009017262080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090299270641688681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bambooboo1989 怎么这么大的门牌！！ https://t.co/5yIuOofw3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090299178127867905",
+            "3_2090299178132115456"
+          ]
+        },
+        "author_id": "2058846085867790337",
+        "conversation_id": "2090299270641688681",
+        "created_at": "2026-08-20T04:45:56.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090299270641688681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctYEHc6q4X",
+              "end": 38,
+              "expanded_url": "https://x.com/bambooboo1989/status/2090299270641688681/photo/1",
+              "media_key": "3_2090299178127867905",
+              "start": 15,
+              "url": "https://t.co/ctYEHc6q4X"
+            },
+            {
+              "display_url": "pic.x.com/ctYEHc6q4X",
+              "end": 38,
+              "expanded_url": "https://x.com/bambooboo1989/status/2090299270641688681/photo/1",
+              "media_key": "3_2090299178132115456",
+              "start": 15,
+              "url": "https://t.co/ctYEHc6q4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090299270641688681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090299178127867905"
+          },
+          {
+            "media_key": "3_2090299178132115456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 908,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "存货，泰州一百的一个楼梯转角 https://t.co/ctYEHc6q4X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090408015732314302",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904,
+          "following_count": 740,
+          "like_count": 19645,
+          "listed_count": 15,
+          "media_count": 150,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T09:44:51.000Z",
+        "description": "涛蜜｜自由右翼｜婉拒粉红激左｜全网最尊重老胡第一位秘书的账号",
+        "id": "2058846085867790337",
+        "is_identity_verified": false,
+        "location": "广顺路17号院",
+        "most_recent_tweet_id": "2090353538216206368",
+        "name": "Argus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058846085867790337/1783587546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075141815909715969/i6mvVk4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 178,
+          "like_count": 4834,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "bambooboo1989",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

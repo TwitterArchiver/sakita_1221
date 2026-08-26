@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090832440751427584"
+      ],
+      "media_source_tweet_id": [
+        "2090832482405118038"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091221331505471858",
+    "created_at": "2026-08-22T17:49:53.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T18:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091221331505471858"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "邓小平"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2087559463331102720",
+          "start": 3,
+          "username": "Buyaokelaochanl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IxXhDUbFvL",
+          "end": 57,
+          "expanded_url": "https://x.com/Buyaokelaochanl/status/2090832482405118038/photo/1",
+          "media_key": "3_2090832440751427584",
+          "start": 34,
+          "url": "https://t.co/IxXhDUbFvL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091221331505471858",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090832440751427584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090832482405118038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Buyaokelaochanl: 灯灯生日快乐✨\n#邓小平 https://t.co/IxXhDUbFvL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2090832440751427584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQhBvPaEAAQnrE.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090832440751427584"
+          ],
+          "media_source_tweet_id": [
+            "2090832482405118038"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091221331505471858",
+        "created_at": "2026-08-22T17:49:53.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091221331505471858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "邓小平"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2087559463331102720",
+              "start": 3,
+              "username": "Buyaokelaochanl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxXhDUbFvL",
+              "end": 57,
+              "expanded_url": "https://x.com/Buyaokelaochanl/status/2090832482405118038/photo/1",
+              "media_key": "3_2090832440751427584",
+              "start": 34,
+              "url": "https://t.co/IxXhDUbFvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091221331505471858",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090832440751427584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090832482405118038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Buyaokelaochanl: 灯灯生日快乐✨\n#邓小平 https://t.co/IxXhDUbFvL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090832440751427584"
+          ]
+        },
+        "author_id": "2087559463331102720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090832482405118038",
+        "created_at": "2026-08-21T16:04:44.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090832482405118038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "邓小平"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxXhDUbFvL",
+              "end": 36,
+              "expanded_url": "https://x.com/Buyaokelaochanl/status/2090832482405118038/photo/1",
+              "media_key": "3_2090832440751427584",
+              "start": 13,
+              "url": "https://t.co/IxXhDUbFvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090832482405118038",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090832440751427584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1623,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "灯灯生日快乐✨\n#邓小平 https://t.co/IxXhDUbFvL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2091221331505471858",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8975,
+          "following_count": 747,
+          "like_count": 19861,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2945
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T15:20:35.000Z",
+        "description": "=驮作\n一个淡淡的，日着攻的逼的女孩。",
+        "id": "2087559463331102720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091188202115924009",
+        "name": "胖哥驮小作",
+        "pinned_tweet_id": "2090832482405118038",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087559463331102720/1786550497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087560311142486016/EiO8WLWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 84,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "Buyaokelaochanl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

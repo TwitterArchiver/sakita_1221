@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2087586215646441705",
+    "created_at": "2026-08-12T21:18:00.000Z",
+    "display_text_range": [
+      17,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T22:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087649828214079903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012568911821033472",
+          "start": 0,
+          "username": "jun3iithx412992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087649828214079903",
+    "in_reply_to_user_id": "2012568911821033472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087586215646441705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun3iithx412992 礼品管理中心 党史馆 北地 北地校内的校史馆 校友之家有衍生制品也可以看一下（遗漏的其他表姐们快来补充x 我目前也只打卡过这些🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2087586215646441705",
+        "created_at": "2026-08-12T21:18:00.000Z",
+        "display_text_range": [
+          17,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087649828214079903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012568911821033472",
+              "start": 0,
+              "username": "jun3iithx412992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087649828214079903",
+        "in_reply_to_user_id": "2012568911821033472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087586215646441705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun3iithx412992 礼品管理中心 党史馆 北地 北地校内的校史馆 校友之家有衍生制品也可以看一下（遗漏的其他表姐们快来补充x 我目前也只打卡过这些🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012568911821033472",
+        "conversation_id": "2087586215646441705",
+        "created_at": "2026-08-12T17:05:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087586215646441705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087586215646441705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后天就要去北京了 大人们有没有推荐的膜💼路线啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2087649828214079903",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8758,
+          "following_count": 731,
+          "like_count": 19380,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2871
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T16:53:24.000Z",
+        "description": "=阿碩｜張愛玲夢友｜簡繁中/ENok｜低浮上",
+        "id": "2012568911821033472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087586330008338611",
+        "name": "xanthe",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012568911821033472/1768670380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012569199957225472/JRrxAUQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 75,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "jun3iithx412992",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

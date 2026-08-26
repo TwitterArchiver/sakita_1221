@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086408450305863870",
+    "created_at": "2026-08-09T14:28:02.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086459495409168513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752369431102312448",
+          "start": 0,
+          "username": "imnin1o8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086459495409168513",
+    "in_reply_to_user_id": "1752369431102312448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086408450305863870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnin1o8964 wy退休可以干这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086408450305863870",
+        "created_at": "2026-08-09T14:28:02.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086459495409168513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752369431102312448",
+              "start": 0,
+              "username": "imnin1o8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086459495409168513",
+        "in_reply_to_user_id": "1752369431102312448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086408450305863870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnin1o8964 wy退休可以干这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752369431102312448",
+        "conversation_id": "2086408450305863870",
+        "created_at": "2026-08-09T11:05:12.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086408450305863870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086408450305863870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情是有没有黄牛能带我进省委啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086459495409168513",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8659,
+          "following_count": 722,
+          "like_count": 19399,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 2848
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T16:33:36.000Z",
+        "description": "比辱追善良一点 比淫追纯洁一点 比正规坤懒惰一点 比萌萌人专注一点 比梦女清醒一点 比妈粉爱梦一点 比嬷嬷公一点 比公公嬷一点\n如果@Coco2ja9受委屈我不介意掀翻所有人的拼好饭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Coco2ja9"
+              }
+            ]
+          }
+        },
+        "id": "1752369431102312448",
+        "is_identity_verified": false,
+        "location": "爱海tv",
+        "most_recent_tweet_id": "2086453681499836728",
+        "name": "imnin1o.",
+        "pinned_tweet_id": "2086441198500422009",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752369431102312448/1778682496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052283798256275456/4q9q4YQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 135,
+          "like_count": 2857,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1425
+        },
+        "url": "",
+        "username": "imnin1o8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

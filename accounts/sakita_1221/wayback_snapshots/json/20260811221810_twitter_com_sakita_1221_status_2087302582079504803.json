@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2087231261282836521",
+    "created_at": "2026-08-11T22:18:10.000Z",
+    "display_text_range": [
+      8,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087302582079504803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073083267662938113",
+          "start": 0,
+          "username": "nloadp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087302582079504803",
+    "in_reply_to_user_id": "2073083267662938113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087231261282836521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nloadp 陈道明真他妈帅啊。。。。我爷爷就和陈道明长得特别像给我帅死了。。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087231261282836521].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087231261282836521",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087231261282836521"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2087231261282836521",
+        "created_at": "2026-08-11T22:18:10.000Z",
+        "display_text_range": [
+          8,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087302582079504803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073083267662938113",
+              "start": 0,
+              "username": "nloadp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087302582079504803",
+        "in_reply_to_user_id": "2073083267662938113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087231261282836521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nloadp 陈道明真他妈帅啊。。。。我爷爷就和陈道明长得特别像给我帅死了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2087302582079504803",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 724,
+          "like_count": 19370,
+          "listed_count": 15,
+          "media_count": 143,
+          "tweet_count": 2868
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T16:37:44.000Z",
+        "description": "我们并肩微笑，看巨浪遮蔽焦阳",
+        "id": "2073083267662938113",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084654850902782427",
+        "name": "冷刻秋",
+        "pinned_tweet_id": "2083059865283707125",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073083267662938113/1785476620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074707458594054144/ihe6w1Gt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 82,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "nloadp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

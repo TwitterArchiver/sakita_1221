@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086336530881339640",
+    "created_at": "2026-08-09T09:03:42.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086377870583292016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813569646890831872",
+          "start": 0,
+          "username": "Claire438989947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086377870583292016",
+    "in_reply_to_user_id": "1813569646890831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086336530881339640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claire438989947 笑死我了快手的配乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086336530881339640].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086336530881339640",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086336530881339640"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086336530881339640",
+        "created_at": "2026-08-09T09:03:42.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086377870583292016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813569646890831872",
+              "start": 0,
+              "username": "Claire438989947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086377870583292016",
+        "in_reply_to_user_id": "1813569646890831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086336530881339640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claire438989947 笑死我了快手的配乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086377870583292016",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8635,
+          "following_count": 718,
+          "like_count": 19385,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:41:30.000Z",
+        "description": "⌚️｜😊🫶",
+        "id": "1813569646890831872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2067632950707937319",
+        "name": "Claire",
+        "pinned_tweet_id": "2078022432770965976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813569646890831872/1767450822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951572376992542720/qy7D9qyz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 116,
+          "like_count": 8109,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "Claire438989947",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

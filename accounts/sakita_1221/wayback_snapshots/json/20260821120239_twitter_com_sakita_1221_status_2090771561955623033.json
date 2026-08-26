@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2090768933854830746",
+    "created_at": "2026-08-21T12:02:39.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090771561955623033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863535968",
+          "start": 0,
+          "username": "JIAnGHuTAo44369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090771561955623033",
+    "in_reply_to_user_id": "1863535968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090768933854830746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAnGHuTAo44369 唉！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1207,
+        "media_key": "3_2090768924161802241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPnQlgXAAE5B9L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2090768933854830746",
+        "created_at": "2026-08-21T12:02:39.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090771561955623033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863535968",
+              "start": 0,
+              "username": "JIAnGHuTAo44369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090771561955623033",
+        "in_reply_to_user_id": "1863535968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090768933854830746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAnGHuTAo44369 唉！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090768924161802241"
+          ]
+        },
+        "author_id": "1863535968",
+        "conversation_id": "2090768933854830746",
+        "created_at": "2026-08-21T11:52:13.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090768933854830746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I156idbYyd",
+              "end": 37,
+              "expanded_url": "https://x.com/JIAnGHuTAo44369/status/2090768933854830746/photo/1",
+              "media_key": "3_2090768924161802241",
+              "start": 14,
+              "url": "https://t.co/I156idbYyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090768933854830746",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090768924161802241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味了這個傻福（？）斯克 https://t.co/I156idbYyd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2090771561955623033",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8954,
+          "following_count": 747,
+          "like_count": 19724,
+          "listed_count": 15,
+          "media_count": 151,
+          "tweet_count": 2922
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-14T11:47:56.000Z",
+        "description": "我們沉默在時間始前\n轉生。。",
+        "id": "1863535968",
+        "is_identity_verified": false,
+        "location": "胡锦涛的子宫",
+        "most_recent_tweet_id": "2090768933854830746",
+        "name": "OnAlInE",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863535968/1786850616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090523728513777664/ZtsMeI9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "JIAnGHuTAo44369",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
