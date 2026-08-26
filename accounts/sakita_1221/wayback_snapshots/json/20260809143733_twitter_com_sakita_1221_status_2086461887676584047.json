@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2086385139685466479",
+    "created_at": "2026-08-09T14:37:33.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086461887676584047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729140735012978688",
+          "start": 0,
+          "username": "penis_of_hjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086461887676584047",
+    "in_reply_to_user_id": "1729140735012978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086385139685466479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penis_of_hjt 这个卡真好看🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086385139685466479].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086385139685466479",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086385139685466479"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2086385139685466479",
+        "created_at": "2026-08-09T14:37:33.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086461887676584047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729140735012978688",
+              "start": 0,
+              "username": "penis_of_hjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086461887676584047",
+        "in_reply_to_user_id": "1729140735012978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086385139685466479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penis_of_hjt 这个卡真好看🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "🍑",
+        "most_recent_tweet_id": "2086461887676584047",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8660,
+          "following_count": 722,
+          "like_count": 19405,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 2850
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-27T14:11:00.000Z",
+        "description": "当朋友圈发了。",
+        "id": "1729140735012978688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086067154248773738",
+        "name": "Ьaigei",
+        "pinned_tweet_id": "2075636286057333183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729140735012978688/1784515165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085336504419991552/v5p4RGeo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 92,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "penis_of_hjt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
