@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:14:54",
+  "last_updated": "2026-08-26T18:15:19",
   "html": {
     "https://web.archive.org/web/20260807125927if_/https://twitter.com/sakita_1221/status/2085712427099021597": {
       "status": "done",
@@ -985,18 +985,18 @@
       "referenced_by": [
         "20260814062030_twitter_com_sakita_1221_status_2088148740867756296.json"
       ],
-      "last_updated": "2026-08-26T17:20:55",
+      "last_updated": "2026-08-26T18:15:14",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260814062030/https://video.twimg.com/amplify_video/2087857075149811713/vid/avc1/1280x720/QIrKc5tiFtyNaEj9.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2088301772725170178/vid/avc1/658x1170/y0nJIZyv2E_wSo4C.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260815101307_twitter_com_sakita_1221_status_2088569667363405848.json"
       ],
-      "last_updated": "2026-08-26T18:11:16",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260815101307/https://video.twimg.com/amplify_video/2088301772725170178/vid/avc1/658x1170/y0nJIZyv2E_wSo4C.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-26T18:15:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260815101307im_/https://video.twimg.com/amplify_video/2088301772725170178/vid/avc1/658x1170/y0nJIZyv2E_wSo4C.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7b7b0134d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2088617431736705024/vid/avc1/720x720/REqGIMGDjQ60CfN8.mp4": {
       "status": "done",
@@ -2417,7 +2417,7 @@
       "last_updated": "2026-08-26T17:21:19"
     },
     "20260815101307_twitter_com_sakita_1221_status_2088569667363405848.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -2428,7 +2428,7 @@
           "https://pbs.twimg.com/profile_images/2082604234655358976/NVOad_tL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:11:16",
+      "last_updated": "2026-08-26T18:15:19",
       "miss_count": 1
     },
     "20260815101315_twitter_com_sakita_1221_status_2088569702474039591.json": {
