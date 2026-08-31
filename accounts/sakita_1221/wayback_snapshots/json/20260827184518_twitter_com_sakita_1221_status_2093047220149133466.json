@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2093011656129261687",
+    "created_at": "2026-08-27T18:45:18.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093047220149133466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2072604825498333184",
+          "start": 0,
+          "username": "LilianNotFound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093047220149133466",
+    "in_reply_to_user_id": "2072604825498333184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093011656129261687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LilianNotFound 这种以为自己转成建制派就特别牛逼了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2093011656129261687",
+        "created_at": "2026-08-27T18:45:18.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093047220149133466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2072604825498333184",
+              "start": 0,
+              "username": "LilianNotFound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093047220149133466",
+        "in_reply_to_user_id": "2072604825498333184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093011656129261687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LilianNotFound 这种以为自己转成建制派就特别牛逼了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072604825498333184",
+        "conversation_id": "2093011656129261687",
+        "created_at": "2026-08-27T16:23:59.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093011656129261687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaakenny7/stat…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/aaakenny7/status/2092963096390480112",
+              "start": 61,
+              "url": "https://t.co/BuilrSeRHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093011656129261687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092963096390480112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "胡锦涛图滞纳人还是图得太少了所以在你眼中就是不如鲨臂细胞质图你全家的平庸，只能支持细胞质再多图点你这种求仁得仁的滞纳人了 https://t.co/BuilrSeRHN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2093047220149133466",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9000,
+          "following_count": 744,
+          "like_count": 19961,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2962
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T08:55:46.000Z",
+        "description": "🍑公 \n//所有内容都是我凝我oc的纯主观产物\n 支持政治韩娱化色情化二次元化耽美化\n//不排斥键政但是包蜜腊蜜小粉红皇汉支黑极左极右严肃键政男不要过来啊啊啊啊\n 政治光谱大概偏向于社会民主主义/社会自由主义属于中间偏左",
+        "id": "2072604825498333184",
+        "is_identity_verified": false,
+        "location": "Québec, Canada",
+        "most_recent_tweet_id": "2093011656129261687",
+        "name": "NothingLastsForever",
+        "pinned_tweet_id": "2092190149052432742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072604825498333184/1786853406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085617143777841152/ZdM2KfDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 114,
+          "like_count": 3789,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "LilianNotFound",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

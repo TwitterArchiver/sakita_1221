@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2093032813385879861",
+    "created_at": "2026-08-27T17:54:40.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093034477601837299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021393118390779904",
+          "start": 0,
+          "username": "zengying1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093034477601837299",
+    "in_reply_to_user_id": "2021393118390779904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093032813385879861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zengying1107 我想要，谢谢曾姐 。。。😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2093032813385879861",
+        "created_at": "2026-08-27T17:54:40.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093034477601837299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021393118390779904",
+              "start": 0,
+              "username": "zengying1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093034477601837299",
+        "in_reply_to_user_id": "2021393118390779904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093032813385879861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zengying1107 我想要，谢谢曾姐 。。。😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021393118390779904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2093032813385879861",
+        "created_at": "2026-08-27T17:48:04.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093032813385879861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zengying1107/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/zengying1107/status/2093031884200763628",
+              "start": 21,
+              "url": "https://t.co/r7a0sL1zZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093032813385879861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3083,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093031884200763628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转发评论，抽10个亲笔内裤！30天发货！ https://t.co/r7a0sL1zZQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2093034491971575996",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8998,
+          "following_count": 744,
+          "like_count": 19951,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T01:17:42.000Z",
+        "description": "早稻田金融毕业｜TEDx演讲嘉宾｜币圈OG｜fobers u30 china｜34岁退休环游世界｜padel｜网球｜实弹射击｜潜水｜赛车｜摩托｜开船｜冰攀｜科技金融博主",
+        "id": "2021393118390779904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093032813385879861",
+        "name": "曾颖",
+        "pinned_tweet_id": "2093031884200763628",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021393118390779904/1784606021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036400185690169349/9HTtvl-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42891,
+          "following_count": 190,
+          "like_count": 941,
+          "listed_count": 86,
+          "media_count": 501,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "zengying1107",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

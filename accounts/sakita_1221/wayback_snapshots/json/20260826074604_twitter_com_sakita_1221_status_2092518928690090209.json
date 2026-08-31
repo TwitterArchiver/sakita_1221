@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2092318104038908404",
+    "created_at": "2026-08-26T07:46:04.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092518928690090209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1371854214352232452",
+          "start": 0,
+          "username": "Nyaru8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092518928690090209",
+    "in_reply_to_user_id": "1371854214352232452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092318104038908404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyaru8964 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2092318088687706112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQloN1Fa4AA8Thw.jpg",
+        "width": 834
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2092318094740070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQloOLoaoAAoo3q.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2092318104038908404",
+        "created_at": "2026-08-26T07:46:04.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092518928690090209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1371854214352232452",
+              "start": 0,
+              "username": "Nyaru8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092518928690090209",
+        "in_reply_to_user_id": "1371854214352232452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092318104038908404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyaru8964 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092318088687706112",
+            "3_2092318094740070400"
+          ]
+        },
+        "author_id": "1371854214352232452",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2092318104038908404",
+        "created_at": "2026-08-25T18:28:04.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092318104038908404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 3,
+              "tag": "cosplay"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8alNMF85nl",
+              "end": 39,
+              "expanded_url": "https://x.com/Nyaru8964/status/2092318104038908404/photo/1",
+              "media_key": "3_2092318088687706112",
+              "start": 16,
+              "url": "https://t.co/8alNMF85nl"
+            },
+            {
+              "display_url": "pic.x.com/8alNMF85nl",
+              "end": 39,
+              "expanded_url": "https://x.com/Nyaru8964/status/2092318104038908404/photo/1",
+              "media_key": "3_2092318094740070400",
+              "start": 16,
+              "url": "https://t.co/8alNMF85nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092318104038908404",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092318088687706112"
+          },
+          {
+            "media_key": "3_2092318094740070400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 715,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洛茜 #cosplay #男娘 https://t.co/8alNMF85nl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2092518928690090209",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8997,
+          "following_count": 742,
+          "like_count": 19942,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2952
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-16T16:02:03.000Z",
+        "description": "男的 打点音游和fps",
+        "id": "1371854214352232452",
+        "is_identity_verified": false,
+        "location": "炙热沙城",
+        "most_recent_tweet_id": "2092498166499463431",
+        "name": "放学后去当乐队主唱",
+        "pinned_tweet_id": "1605397982593286144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371854214352232452/1776009237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996615604036632576/MSlCSdy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 298,
+          "like_count": 57,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "Nyaru8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

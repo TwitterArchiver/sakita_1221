@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2092939535101607969",
+    "created_at": "2026-08-27T13:07:40.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092962250659426431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860296268754587648",
+          "start": 0,
+          "username": "SnowCrest21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092962250659426431",
+    "in_reply_to_user_id": "1860296268754587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092939535101607969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowCrest21 真可爱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092939535101607969].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092939535101607969",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092939535101607969"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2092939535101607969",
+        "created_at": "2026-08-27T13:07:40.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092962250659426431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860296268754587648",
+              "start": 0,
+              "username": "SnowCrest21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092962250659426431",
+        "in_reply_to_user_id": "1860296268754587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092939535101607969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowCrest21 真可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2092962250659426431",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8996,
+          "following_count": 744,
+          "like_count": 19941,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T12:16:27.000Z",
+        "description": "无为花痴泪江湖",
+        "id": "1860296268754587648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082309361888862307",
+        "name": "山霁",
+        "pinned_tweet_id": "2037832207189049473",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860296268754587648/1734269613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066205281479282688/DA2ebkYe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 224,
+          "like_count": 3863,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1149
+        },
+        "url": "",
+        "username": "SnowCrest21",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

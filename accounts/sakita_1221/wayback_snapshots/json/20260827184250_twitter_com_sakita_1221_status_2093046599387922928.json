@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2092991927570555056",
+    "created_at": "2026-08-27T18:42:50.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093046599387922928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068935632408440832",
+          "start": 0,
+          "username": "27qili78964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093046599387922928",
+    "in_reply_to_user_id": "2068935632408440832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092991927570555056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@27qili78964 参考文献:王洪文追求的女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2092991927570555056",
+        "created_at": "2026-08-27T18:42:50.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093046599387922928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068935632408440832",
+              "start": 0,
+              "username": "27qili78964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093046599387922928",
+        "in_reply_to_user_id": "2068935632408440832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092991927570555056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@27qili78964 参考文献:王洪文追求的女人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068935632408440832",
+        "conversation_id": "2092991927570555056",
+        "created_at": "2026-08-27T15:05:36.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092991927570555056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092991927570555056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胡启立邀请我去天津，天津，他的天津\n\n胡启立胡启立胡启立胡启立胡启立胡启立胡启立胡启立胡启立胡启立胡启立胡启立胡启立\n是李瑞环告诉我的。此刻，我多么想高呼相片同志万岁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2093046599387922928",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8999,
+          "following_count": 744,
+          "like_count": 19955,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2961
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T05:55:50.000Z",
+        "description": "初号机@hqllovermua\n寻回卢关中…\n胡启立混沌一体机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "hqllovermua"
+              }
+            ]
+          }
+        },
+        "id": "2068935632408440832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093001005491425298",
+        "name": "荔枝蝴蝶皮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068935632408440832/1782107986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091134895490011136/burl-zZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 98,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "27qili78964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
