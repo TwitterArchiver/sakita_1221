@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2097649530405847535",
+    "created_at": "2026-09-09T13:29:50.000Z",
+    "display_text_range": [
+      16,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097678870925520978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900022497749409792",
+          "start": 0,
+          "username": "wngxinln989164"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097678870925520978",
+    "in_reply_to_user_id": "1900022497749409792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097662137740963847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngxinln989164 好像是平安北地预约吧，其实你在门口随便找个人带你进去都可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2097649530405847535",
+        "created_at": "2026-09-09T13:29:50.000Z",
+        "display_text_range": [
+          16,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097678870925520978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900022497749409792",
+              "start": 0,
+              "username": "wngxinln989164"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097678870925520978",
+        "in_reply_to_user_id": "1900022497749409792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097662137740963847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngxinln989164 好像是平安北地预约吧，其实你在门口随便找个人带你进去都可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900022497749409792",
+        "conversation_id": "2097649530405847535",
+        "created_at": "2026-09-09T12:23:20.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097662137740963847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "sakita_1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097662137740963847",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097649530405847535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakita_1221 地大进校要预约吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2097678870925520978",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9017,
+          "following_count": 755,
+          "like_count": 18453,
+          "listed_count": 16,
+          "media_count": 154,
+          "tweet_count": 2975
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T03:14:38.000Z",
+        "description": "老资历别太过分",
+        "id": "1900022497749409792",
+        "is_identity_verified": false,
+        "location": "下北沢SHELTER",
+        "most_recent_tweet_id": "2097662137740963847",
+        "name": "虹夏改歌归来，看社恐孤独土崩瓦解，纽带乐队终将到来",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900022497749409792/1788078226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970008919067013120/z8oXcdXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 144,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "wngxinln989164",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

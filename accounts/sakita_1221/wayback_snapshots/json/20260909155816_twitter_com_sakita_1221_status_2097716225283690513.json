@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2097716225283690513",
+    "created_at": "2026-09-09T15:58:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097716225283690513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "827513806880329732",
+          "start": 3,
+          "username": "XinHaNewsAgency"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097716225283690513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097495768332669282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinHaNewsAgency: 杰出的社会活动家、著名的爱国人士、中国共产党的亲密朋友，香港特别行政区第一、二任行政长官、中国人民政治协商会议第十、十一、十二、十三届全国委员会副主席董建华先生，因病医治无效，于二〇二六年九月八日在香港逝世，享年八十九岁。 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2097495759042338816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvNR6ObYAAxm03.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2097716225283690513",
+        "created_at": "2026-09-09T15:58:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097716225283690513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "827513806880329732",
+              "start": 3,
+              "username": "XinHaNewsAgency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097716225283690513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097495768332669282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XinHaNewsAgency: 杰出的社会活动家、著名的爱国人士、中国共产党的亲密朋友，香港特别行政区第一、二任行政长官、中国人民政治协商会议第十、十一、十二、十三届全国委员会副主席董建华先生，因病医治无效，于二〇二六年九月八日在香港逝世，享年八十九岁。 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097495759042338816"
+          ]
+        },
+        "author_id": "827513806880329732",
+        "conversation_id": "2097495768332669282",
+        "created_at": "2026-09-09T01:22:15.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097495768332669282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oH8YnriWRY",
+              "end": 135,
+              "expanded_url": "https://x.com/XinHaNewsAgency/status/2097495768332669282/photo/1",
+              "media_key": "3_2097495759042338816",
+              "start": 112,
+              "url": "https://t.co/oH8YnriWRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097495768332669282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097495759042338816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 25888,
+          "like_count": 275,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "杰出的社会活动家、著名的爱国人士、中国共产党的亲密朋友，香港特别行政区第一、二任行政长官、中国人民政治协商会议第十、十一、十二、十三届全国委员会副主席董建华先生，因病医治无效，于二〇二六年九月八日在香港逝世，享年八十九岁。 https://t.co/oH8YnriWRY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2097716225283690513",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9018,
+          "following_count": 755,
+          "like_count": 18468,
+          "listed_count": 16,
+          "media_count": 154,
+          "tweet_count": 2978
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-03T13:47:20.000Z",
+        "description": "新蛤社，让世界听到江学的声音！ 欢迎关注新蛤社。下能听取蛙声一片，中能提高姿势水平，上可学习人生经验，岂不美哉？投稿请@我或发送私信投稿 \n电报：https://t.co/xVVgQZGUDy\n#膜蛤 #膜法 #长者 #续命 #江泽民",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "膜蛤"
+              },
+              {
+                "end": 104,
+                "start": 101,
+                "tag": "膜法"
+              },
+              {
+                "end": 108,
+                "start": 105,
+                "tag": "长者"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "续命"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "江泽民"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/XinHaNewsAgency",
+                "end": 96,
+                "expanded_url": "http://t.me/XinHaNewsAgency",
+                "start": 73,
+                "url": "https://t.co/xVVgQZGUDy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XinHaNewsAgen…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@XinHaNewsAgency",
+                "start": 0,
+                "url": "https://t.co/p8jeIezwhr"
+              }
+            ]
+          }
+        },
+        "id": "827513806880329732",
+        "is_identity_verified": false,
+        "location": "中蛤人民共和国",
+        "most_recent_tweet_id": "2097495768332669282",
+        "name": "新蛤社",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827513806880329732/1680799594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648128228505321478/Ph0Mps49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88984,
+          "following_count": 32,
+          "like_count": 710,
+          "listed_count": 232,
+          "media_count": 1762,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/p8jeIezwhr",
+        "username": "XinHaNewsAgency",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

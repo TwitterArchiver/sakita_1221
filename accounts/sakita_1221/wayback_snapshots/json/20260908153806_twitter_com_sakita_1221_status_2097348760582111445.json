@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2097203038293201140",
+    "created_at": "2026-09-08T15:38:06.000Z",
+    "display_text_range": [
+      33,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097348760582111445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587633987840872450",
+          "start": 0,
+          "username": "yigetangxindan"
+        },
+        {
+          "end": 32,
+          "id": "1502618677664882689",
+          "start": 16,
+          "username": "jingjiehaoshan2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097348760582111445",
+    "in_reply_to_user_id": "1587633987840872450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097203038293201140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yigetangxindan @jingjiehaoshan2 富士一次性胶片相机或者果冻胶片机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2097203038293201140",
+        "created_at": "2026-09-08T15:38:06.000Z",
+        "display_text_range": [
+          33,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097348760582111445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587633987840872450",
+              "start": 0,
+              "username": "yigetangxindan"
+            },
+            {
+              "end": 32,
+              "id": "1502618677664882689",
+              "start": 16,
+              "username": "jingjiehaoshan2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097348760582111445",
+        "in_reply_to_user_id": "1587633987840872450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097203038293201140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigetangxindan @jingjiehaoshan2 富士一次性胶片相机或者果冻胶片机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587633987840872450",
+        "conversation_id": "2097203038293201140",
+        "created_at": "2026-09-08T05:59:03.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097203038293201140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097203038293201140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 42766,
+          "like_count": 443,
+          "quote_count": 0,
+          "reply_count": 272,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条生日礼物帖，暂时不会删\n男生，女生都可以。年龄都是20出头\n\n大家可以给我推推生日礼物吗🥺\n可以是实用的/美丽废物都行。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2097348760582111445",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9015,
+          "following_count": 756,
+          "like_count": 18446,
+          "listed_count": 16,
+          "media_count": 152,
+          "tweet_count": 2969
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T02:33:58.000Z",
+        "description": "推止于推｜被盗图骗别找我｜转我照片帖直接拉黑｜不在国内不约任何不实践不闲聊不加v｜最爱吃溏心蛋拌炒饭🍳｜文黄图绿号，我什么都敢说｜你主页有🩸图/恐怖请屏蔽我谢谢｜给我发吊的都枪毙｜别跟我装熟那很冒犯｜https://t.co/id8JwD8uWt ⬅️阿瑟请问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yigetangxindan",
+                "end": 123,
+                "expanded_url": "https://ngl.link/yigetangxindan",
+                "start": 100,
+                "url": "https://t.co/id8JwD8uWt"
+              }
+            ]
+          }
+        },
+        "id": "1587633987840872450",
+        "is_identity_verified": false,
+        "location": "不是🚪姐 打赏随意",
+        "most_recent_tweet_id": "2097335527166865838",
+        "name": "溏心蛋",
+        "pinned_tweet_id": "2034245594860982704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587633987840872450/1786943040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035918636268072960/xxUz8HPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 150,
+          "like_count": 21639,
+          "listed_count": 7,
+          "media_count": 414,
+          "tweet_count": 9386
+        },
+        "url": "",
+        "username": "yigetangxindan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-12T12:13:14.000Z",
+        "description": "#马克思主义菜鸟 互of看情况 不主动B人 19岁 性别是武装直升机 CSGO苦手 爱上火车 爱是自由意志的最低解放 要马列主义，不要修正主义，要团结，不要分裂，要光明正大，不要阴谋诡计",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "马克思主义菜鸟"
+              }
+            ]
+          }
+        },
+        "id": "1502618677664882689",
+        "is_identity_verified": false,
+        "location": "世界社会主义共和国",
+        "most_recent_tweet_id": "2097325268470038769",
+        "name": "警戒号上的理想主义者",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1502618677664882689/1711881792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502619071241621505/Ya90V3pK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 2943,
+          "like_count": 213787,
+          "listed_count": 7,
+          "media_count": 1625,
+          "tweet_count": 20584
+        },
+        "url": "",
+        "username": "jingjiehaoshan2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

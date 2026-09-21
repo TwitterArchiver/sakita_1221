@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2099554299022025181",
+    "created_at": "2026-09-14T20:21:28.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099594399764410759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812858934593814528",
+          "start": 0,
+          "username": "bibng367036qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099594399764410759",
+    "in_reply_to_user_id": "1812858934593814528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099554299022025181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibng367036qwq 好期待！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2099554198455267328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMda2mbMAAdH-H.jpg",
+        "width": 1546
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2099554215400218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMdb1uaoAARxLq.jpg",
+        "width": 1546
+      },
+      {
+        "height": 424,
+        "media_key": "3_2099554237093199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMddGibQAACnUb.png",
+        "width": 1578
+      },
+      {
+        "height": 542,
+        "media_key": "3_2099554260942028800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMdefYbgAA9K5f.png",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2099554299022025181",
+        "created_at": "2026-09-14T20:21:28.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099594399764410759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812858934593814528",
+              "start": 0,
+              "username": "bibng367036qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099594399764410759",
+        "in_reply_to_user_id": "1812858934593814528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099554299022025181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibng367036qwq 好期待！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099554198455267328",
+            "3_2099554215400218624",
+            "3_2099554237093199872",
+            "3_2099554260942028800"
+          ]
+        },
+        "author_id": "1812858934593814528",
+        "conversation_id": "2099554299022025181",
+        "created_at": "2026-09-14T17:42:07.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099554299022025181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XW3UvfQ20U",
+              "end": 35,
+              "expanded_url": "https://x.com/bibng367036qwq/status/2099554299022025181/photo/1",
+              "media_key": "3_2099554198455267328",
+              "start": 12,
+              "url": "https://t.co/XW3UvfQ20U"
+            },
+            {
+              "display_url": "pic.x.com/XW3UvfQ20U",
+              "end": 35,
+              "expanded_url": "https://x.com/bibng367036qwq/status/2099554299022025181/photo/1",
+              "media_key": "3_2099554215400218624",
+              "start": 12,
+              "url": "https://t.co/XW3UvfQ20U"
+            },
+            {
+              "display_url": "pic.x.com/XW3UvfQ20U",
+              "end": 35,
+              "expanded_url": "https://x.com/bibng367036qwq/status/2099554299022025181/photo/1",
+              "media_key": "3_2099554237093199872",
+              "start": 12,
+              "url": "https://t.co/XW3UvfQ20U"
+            },
+            {
+              "display_url": "pic.x.com/XW3UvfQ20U",
+              "end": 35,
+              "expanded_url": "https://x.com/bibng367036qwq/status/2099554299022025181/photo/1",
+              "media_key": "3_2099554260942028800",
+              "start": 12,
+              "url": "https://t.co/XW3UvfQ20U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099554299022025181",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099554198455267328"
+          },
+          {
+            "media_key": "3_2099554215400218624"
+          },
+          {
+            "media_key": "3_2099554237093199872"
+          },
+          {
+            "media_key": "3_2099554260942028800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日贺图等写完了一起画 https://t.co/XW3UvfQ20U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2099594399764410759",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 762,
+          "like_count": 18210,
+          "listed_count": 15,
+          "media_count": 156,
+          "tweet_count": 2993
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-15T14:37:20.000Z",
+        "description": "世间难得百般万全法",
+        "id": "1812858934593814528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099554299022025181",
+        "name": "-饼白-",
+        "pinned_tweet_id": "2018684245477134402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812858934593814528/1774941502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004396393172291584/FIGlAuMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 419,
+          "like_count": 1722,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "bibng367036qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

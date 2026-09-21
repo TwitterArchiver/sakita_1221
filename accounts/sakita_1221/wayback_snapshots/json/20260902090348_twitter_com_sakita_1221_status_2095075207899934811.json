@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094856340716044288"
+      ],
+      "media_source_tweet_id": [
+        "2094856525995184245"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095075207899934811",
+    "created_at": "2026-09-02T09:03:48.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095075207899934811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "李克强"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474446730582056962",
+          "start": 3,
+          "username": "chenshuiix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0qepBlZ98",
+          "end": 133,
+          "expanded_url": "https://x.com/chenshuiix/status/2094856525995184245/video/1",
+          "media_key": "13_2094856340716044288",
+          "start": 110,
+          "url": "https://t.co/X0qepBlZ98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095075207899934811",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2094856340716044288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094856525995184245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chenshuiix: 「誰與我生死與共」\n\n结尾照片和视频中间有一小段和照片停留时长相同的黑屏，希望这一小片黑屏，可以让看到的人，只要愿意，都可以成为和克强总理生死与共的那个人。\n\nbgm：刀剑如梦\n#李克强 https://t.co/X0qepBlZ98"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24666,
+        "height": 720,
+        "media_key": "13_2094856340716044288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094856340716044288/img/Op7_VRl0wM1sY6MZ.jpg",
+        "public_metrics": {
+          "view_count": 1674
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094856340716044288/vid/avc1/386x270/H-Xzy2qd6iOtMPMx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094856340716044288/vid/avc1/514x360/gyj8afnOzQ2chUPJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094856340716044288/vid/avc1/1030x720/hUwYsNM2DLvXTfW2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094856340716044288/pl/Yfe4HroWmn9JhDhG.m3u8?v=715"
+          }
+        ],
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094856340716044288"
+          ],
+          "media_source_tweet_id": [
+            "2094856525995184245"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095075207899934811",
+        "created_at": "2026-09-02T09:03:48.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095075207899934811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "李克强"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1474446730582056962",
+              "start": 3,
+              "username": "chenshuiix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0qepBlZ98",
+              "end": 133,
+              "expanded_url": "https://x.com/chenshuiix/status/2094856525995184245/video/1",
+              "media_key": "13_2094856340716044288",
+              "start": 110,
+              "url": "https://t.co/X0qepBlZ98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095075207899934811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094856340716044288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094856525995184245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chenshuiix: 「誰與我生死與共」\n\n结尾照片和视频中间有一小段和照片停留时长相同的黑屏，希望这一小片黑屏，可以让看到的人，只要愿意，都可以成为和克强总理生死与共的那个人。\n\nbgm：刀剑如梦\n#李克强 https://t.co/X0qepBlZ98"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094856340716044288"
+          ]
+        },
+        "author_id": "1474446730582056962",
+        "conversation_id": "2094856525995184245",
+        "created_at": "2026-09-01T18:34:51.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094856525995184245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "李克强"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0qepBlZ98",
+              "end": 117,
+              "expanded_url": "https://x.com/chenshuiix/status/2094856525995184245/video/1",
+              "media_key": "13_2094856340716044288",
+              "start": 94,
+              "url": "https://t.co/X0qepBlZ98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094856525995184245",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094856340716044288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3353,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "「誰與我生死與共」\n\n结尾照片和视频中间有一小段和照片停留时长相同的黑屏，希望这一小片黑屏，可以让看到的人，只要愿意，都可以成为和克强总理生死与共的那个人。\n\nbgm：刀剑如梦\n#李克强 https://t.co/X0qepBlZ98"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2095075207899934811",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9011,
+          "following_count": 746,
+          "like_count": 18688,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2964
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-24T18:28:05.000Z",
+        "description": "面向涣散的未来，只唱情歌看不到坦克。",
+        "id": "1474446730582056962",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095074127631745083",
+        "name": "弹秦城",
+        "pinned_tweet_id": "2058956804999262692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474446730582056962/1787159321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088288157045489664/4LHkSepw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 138,
+          "like_count": 14680,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 1872
+        },
+        "url": "",
+        "username": "chenshuiix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097730657422331904"
+      ],
+      "media_source_tweet_id": [
+        "2097730670059749635"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2098072218928607238",
+    "created_at": "2026-09-10T15:32:51.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098072218928607238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716796994881253376",
+          "start": 3,
+          "username": "denkEbbt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/khKCc2OsUi",
+          "end": 64,
+          "expanded_url": "https://x.com/denkEbbt/status/2097730670059749635/photo/1",
+          "media_key": "3_2097730657422331904",
+          "start": 41,
+          "url": "https://t.co/khKCc2OsUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098072218928607238",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097730657422331904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097730670059749635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denkEbbt: 1983年5月23日｜长沙县“李中笑图书户”\n胡锦涛 https://t.co/khKCc2OsUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_2097730657422331904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyi6y4a0AAR6gA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097730657422331904"
+          ],
+          "media_source_tweet_id": [
+            "2097730670059749635"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2098072218928607238",
+        "created_at": "2026-09-10T15:32:51.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098072218928607238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716796994881253376",
+              "start": 3,
+              "username": "denkEbbt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khKCc2OsUi",
+              "end": 64,
+              "expanded_url": "https://x.com/denkEbbt/status/2097730670059749635/photo/1",
+              "media_key": "3_2097730657422331904",
+              "start": 41,
+              "url": "https://t.co/khKCc2OsUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098072218928607238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097730657422331904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097730670059749635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denkEbbt: 1983年5月23日｜长沙县“李中笑图书户”\n胡锦涛 https://t.co/khKCc2OsUi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097730657422331904"
+          ]
+        },
+        "author_id": "1716796994881253376",
+        "conversation_id": "2097730670059749635",
+        "created_at": "2026-09-09T16:55:40.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097730670059749635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khKCc2OsUi",
+              "end": 50,
+              "expanded_url": "https://x.com/denkEbbt/status/2097730670059749635/photo/1",
+              "media_key": "3_2097730657422331904",
+              "start": 27,
+              "url": "https://t.co/khKCc2OsUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097730670059749635",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097730657422331904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2156,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "1983年5月23日｜长沙县“李中笑图书户”\n胡锦涛 https://t.co/khKCc2OsUi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2098072218928607238",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9016,
+          "following_count": 755,
+          "like_count": 18479,
+          "listed_count": 16,
+          "media_count": 154,
+          "tweet_count": 2979
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-24T12:41:29.000Z",
+        "description": "拒绝任何政治相关内容 请不要打扰我.",
+        "id": "1716796994881253376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098068567522709812",
+        "name": "涛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716796994881253376/1788201063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990714443018481665/EtyVwWby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 74,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "denkEbbt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

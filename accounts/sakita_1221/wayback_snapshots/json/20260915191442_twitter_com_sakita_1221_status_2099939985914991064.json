@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2099795831222116623",
+    "created_at": "2026-09-15T19:14:42.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T20:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099939985914991064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "Rokumi_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099939985914991064",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099795831222116623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rokumi_desu 他到底在急啥啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 119,
+        "media_key": "3_2099795818853130240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSP5LAuXYAA8sHy.jpg",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2099795831222116623",
+        "created_at": "2026-09-15T19:14:42.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099939985914991064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "Rokumi_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099939985914991064",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099795831222116623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rokumi_desu 他到底在急啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099795818853130240"
+          ]
+        },
+        "author_id": "1247123754158702593",
+        "conversation_id": "2099795831222116623",
+        "created_at": "2026-09-15T09:41:53.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099795831222116623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzxkXQi0xL",
+              "end": 83,
+              "expanded_url": "https://x.com/Rokumi_desu/status/2099795831222116623/photo/1",
+              "media_key": "3_2099795818853130240",
+              "start": 60,
+              "url": "https://t.co/TzxkXQi0xL"
+            },
+            {
+              "display_url": "x.com/CNAdrian1917/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/CNAdrian1917/status/2099711969414529334",
+              "start": 84,
+              "url": "https://t.co/hXAnNx78dg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099795831222116623",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099795818853130240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 873,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099711969414529334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气急败坏输入一大串狗屁不通的意淫内容，最后支性爆表连“弱智”与“废物”都不敢打出来 这就是懦弱但温良的中国人有懂的吗🥴 https://t.co/TzxkXQi0xL https://t.co/hXAnNx78dg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2099939985914991064",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9102,
+          "following_count": 760,
+          "like_count": 18248,
+          "listed_count": 15,
+          "media_count": 156,
+          "tweet_count": 2999
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "“It’s a conspiracy” we say in unison",
+        "id": "1247123754158702593",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099928664683036777",
+        "name": "海うみ",
+        "pinned_tweet_id": "2041953898076753941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247123754158702593/1759948714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963335765573902336/bn-zMV-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 827,
+          "like_count": 91391,
+          "listed_count": 9,
+          "media_count": 496,
+          "tweet_count": 9418
+        },
+        "url": "",
+        "username": "Rokumi_desu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

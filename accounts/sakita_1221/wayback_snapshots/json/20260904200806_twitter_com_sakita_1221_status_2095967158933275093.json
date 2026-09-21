@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1506291557233999877",
+    "conversation_id": "2095852774277963967",
+    "created_at": "2026-09-04T20:08:06.000Z",
+    "display_text_range": [
+      11,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T21:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095967158933275093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2088266341518295041",
+          "start": 0,
+          "username": "zuitaoliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095967158933275093",
+    "in_reply_to_user_id": "2088266341518295041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095852774277963967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuitaoliu 这种人听风是风听雨是雨 政治立场像那个滑动变阻器来回切换 超绝两面派"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506291557233999877",
+        "conversation_id": "2095852774277963967",
+        "created_at": "2026-09-04T20:08:06.000Z",
+        "display_text_range": [
+          11,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095967158933275093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2088266341518295041",
+              "start": 0,
+              "username": "zuitaoliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095967158933275093",
+        "in_reply_to_user_id": "2088266341518295041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095852774277963967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuitaoliu 这种人听风是风听雨是雨 政治立场像那个滑动变阻器来回切换 超绝两面派"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088266341518295041",
+        "conversation_id": "2095852774277963967",
+        "created_at": "2026-09-04T12:33:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095852774277963967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095852774277963967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩游泳梗的平均学历没超过初中"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2095967158933275093",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9014,
+          "following_count": 755,
+          "like_count": 18600,
+          "listed_count": 16,
+          "media_count": 152,
+          "tweet_count": 2965
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T14:09:36.000Z",
+        "description": "二号机/",
+        "id": "2088266341518295041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095918710095802690",
+        "name": "醉桃柳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088266341518295041/1786717085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088267664016003072/I2V5ZFoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 126,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "zuitaoliu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

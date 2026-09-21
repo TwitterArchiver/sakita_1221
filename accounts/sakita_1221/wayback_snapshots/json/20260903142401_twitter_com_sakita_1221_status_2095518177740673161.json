@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095482439040942081"
+      ],
+      "media_source_tweet_id": [
+        "2095482510214050067"
+      ]
+    },
+    "author_id": "1506291557233999877",
+    "conversation_id": "2095518177740673161",
+    "created_at": "2026-09-03T14:24:01.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095518177740673161"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "桃李"
+        },
+        {
+          "end": 30,
+          "start": 19,
+          "tag": "干脆面为什么一直在叫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088266341518295041",
+          "start": 3,
+          "username": "zuitaoliu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1coeyk7Vqb",
+          "end": 54,
+          "expanded_url": "https://x.com/zuitaoliu/status/2095482510214050067/video/1",
+          "media_key": "13_2095482439040942081",
+          "start": 31,
+          "url": "https://t.co/1coeyk7Vqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095518177740673161",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2095482439040942081"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095482510214050067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuitaoliu: #桃李 #干脆面为什么一直在叫 https://t.co/1coeyk7Vqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17308,
+        "height": 720,
+        "media_key": "13_2095482439040942081",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095482439040942081/img/12OG2FUFBqgVPJfO.jpg",
+        "public_metrics": {
+          "view_count": 193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095482439040942081/vid/avc1/306x270/2DmCtOaDIMbdpmr2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095482439040942081/vid/avc1/408x360/bgIy4w1qDgu3Zv84.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095482439040942081/vid/avc1/818x720/hiDCKacsRFLJ9SZ4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095482439040942081/pl/mCfWWdO7fjxgLN9q.m3u8"
+          }
+        ],
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095482439040942081"
+          ],
+          "media_source_tweet_id": [
+            "2095482510214050067"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2095518177740673161",
+        "created_at": "2026-09-03T14:24:01.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095518177740673161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "桃李"
+            },
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "干脆面为什么一直在叫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088266341518295041",
+              "start": 3,
+              "username": "zuitaoliu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1coeyk7Vqb",
+              "end": 54,
+              "expanded_url": "https://x.com/zuitaoliu/status/2095482510214050067/video/1",
+              "media_key": "13_2095482439040942081",
+              "start": 31,
+              "url": "https://t.co/1coeyk7Vqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095518177740673161",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2095482439040942081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095482510214050067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuitaoliu: #桃李 #干脆面为什么一直在叫 https://t.co/1coeyk7Vqb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095482439040942081"
+          ]
+        },
+        "author_id": "2088266341518295041",
+        "conversation_id": "2095482510214050067",
+        "created_at": "2026-09-03T12:02:17.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095482510214050067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "桃李"
+            },
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "干脆面为什么一直在叫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1coeyk7Vqb",
+              "end": 39,
+              "expanded_url": "https://x.com/zuitaoliu/status/2095482510214050067/video/1",
+              "media_key": "13_2095482439040942081",
+              "start": 16,
+              "url": "https://t.co/1coeyk7Vqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095482510214050067",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2095482439040942081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 414,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#桃李 #干脆面为什么一直在叫 https://t.co/1coeyk7Vqb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "沒有未來的未來不是我想要的未來@01yoyori_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "01yoyori_"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "is_identity_verified": false,
+        "location": "多儿巷一号",
+        "most_recent_tweet_id": "2095518177740673161",
+        "name": "sakita_1221",
+        "pinned_tweet_id": "2086053170514739363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506291557233999877/1785962593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085104120835493888/nNsETNC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9012,
+          "following_count": 753,
+          "like_count": 18594,
+          "listed_count": 15,
+          "media_count": 152,
+          "tweet_count": 2965
+        },
+        "url": "",
+        "username": "sakita_1221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T14:09:36.000Z",
+        "description": "二号机/",
+        "id": "2088266341518295041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095514675899490705",
+        "name": "醉桃柳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088266341518295041/1786717085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088267664016003072/I2V5ZFoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 126,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "zuitaoliu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
