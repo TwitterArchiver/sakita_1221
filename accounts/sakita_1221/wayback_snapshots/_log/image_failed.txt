@@ -1,10 +1,5 @@
 https://pbs.twimg.com/media/HQUaKsmWsAAOxUc.jpg
-https://pbs.twimg.com/media/HPMsrJEXAAA8RtK.jpg
-https://pbs.twimg.com/media/HQPnQlgXAAE5B9L.jpg
 https://pbs.twimg.com/media/HR63vDma0AAx_CJ.jpg
-https://pbs.twimg.com/media/HRxZ7XNbMAAhwfh.jpg
-https://pbs.twimg.com/media/HSMM8HxaUAIv97k.jpg
-https://pbs.twimg.com/media/HRxZIBWbEAAA9hr.jpg
 https://pbs.twimg.com/media/HR63vDybEAAsXlz.jpg
 https://pbs.twimg.com/media/HRxZ7XCaUAAiFzj.jpg
 https://pbs.twimg.com/media/HSMM8HubwAAFkDH.jpg
@@ -12,3 +7,4 @@ https://pbs.twimg.com/media/HRxZIBUboAAbl3p.jpg
 https://pbs.twimg.com/media/HR63vDkbMAAg8fc.jpg
 https://pbs.twimg.com/media/HRxZ7XHbwAAsNvA.jpg
 https://pbs.twimg.com/media/HRxZ7W-aMAEIXs9.jpg
+https://pbs.twimg.com/media/HRxZIBWbEAAA9hr.jpg
